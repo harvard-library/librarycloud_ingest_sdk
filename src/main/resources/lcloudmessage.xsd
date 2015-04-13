@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:vc="http://www.w3.org/2007/XMLSchema-versioning" elementFormDefault="qualified"
+    vc:minVersion="1.1">
+
+    <xs:element name="lib_comm_message">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="command">
+                    <xs:simpleType>
+                        <!-- Restricting the values to a set of value using 'enumeration' -->
+                        <xs:restriction base="xs:string">
+                            <xs:enumeration value="INGEST"/>
+                            <xs:enumeration value="NORMALIZE"/>
+                            <xs:enumeration value="ENRICH"/>
+                            <xs:enumeration value="PUBLISH"/>
+                            <xs:enumeration value="DELETE"/>
+                            <xs:enumeration value="REPLAY"/>
+                            <xs:enumeration value="LOG"/>
+
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="payload">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="source" type="xs:string"/>
+                            <xs:element name="format" type="xs:string"/>
+
+                            <xs:element name="filepath" minOccurs="0" maxOccurs="1" type="xs:string"/>
+                            <xs:element name="data" type="xs:string"/>
+                            <!--<xs:any minOccurs="0" maxOccurs="1" namespace="##any" processContents="lax"/>-->
+                            <!--
+                            <xs:element maxOccurs="unbounded" name="field">
+                                <xs:complexType>
+                                    <xs:simpleContent>
+                                        <xs:extension base="xs:string">
+                                            <xs:attribute name="name" type="xs:string">
+                                            </xs:attribute>
+                                        </xs:extension>
+                                    </xs:simpleContent>
+                                </xs:complexType>
+                            </xs:element>
+                            -->
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="watchers" maxOccurs="1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="watcher" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="name" type="xs:string"/>
+                                        <xs:element name="id" type="xs:string"/>
+                                        <xs:element name="notification">
+                                            <xs:simpleType>
+                                                <!-- Restricting the values to a set of value using 'enumeration' -->
+                                                <xs:restriction base="xs:string">
+                                                  <xs:enumeration value="trace"/>
+                                                  <xs:enumeration value="success"/>
+                                                  <xs:enumeration value="error"/>
+                                                  <xs:enumeration value="warn"/>
+                                                </xs:restriction>
+                                            </xs:simpleType>
+                                        </xs:element>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="initiator"/>
+                <xs:element name="history">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="event" maxOccurs="unbounded">
+                                <xs:complexType>
+                                   <xs:sequence>
+                                       <xs:element name="messagetype" type="xs:string"/>
+                                       <xs:element name="messageid" type="xs:string"/>
+                                       <xs:element name="sendingservice" type="xs:string"/>
+                                       <xs:element name="time" type="xs:string"/>
+                                   </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

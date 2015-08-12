@@ -15,7 +15,7 @@ public class ExampleProcessor implements IProcessor {
 	
 	public void processMessage(LibCommMessage libCommMessage) throws Exception {	
 	
-		log.debug("Processing a message");
+		log.debug("====== Processing a message through the ExampleProcessor =======");
         
 	}
 }

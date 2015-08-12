@@ -31,11 +31,17 @@
         <property name="showHeaders" value="false"/>
     </bean>
 
+    <!-- ============================================================================================= -->
+    <!-- EDIT START : Change the class referenced by the "processor" property to your message processor -->
+    <!-- ============================================================================================= -->
     <bean id="exampleProcessor" class="edu.harvard.librarycloud.sdk.LibCommProcessor">
         <property name="processor">
             <bean class="edu.harvard.librarycloud.sdk.ExampleProcessor"/>
         </property>
     </bean>
+    <!-- ============================================================================================= -->
+    <!-- EDIT END                                                                                      -->
+    <!-- ============================================================================================= -->
 
     <camelContext id="sqsContext" xmlns="http://camel.apache.org/schema/spring" trace="true">
         <!-- Environment-specific properties -->
@@ -77,7 +83,9 @@
         </route>
 
 
-        <!-- Example consumer  -->
+        <!-- =============================================================================================   -->
+        <!-- EDIT THIS : Change the "-publish-public" queue to match the queue on which messages will arrive -->
+        <!-- =============================================================================================   -->
         <route id="example-seda" errorHandlerRef="eh">
             <!--<from uri="file://{{librarycloud.files.basepath}}/publish-public-to" /> -->
             <from uri="aws-sqs://{{librarycloud.sqs.environment}}-publish-public?accessKey=${access.key}&amp;secretKey=${secret.key}&amp;amazonSQSClient=#sqsClient&amp;maxMessagesPerPoll=10" />

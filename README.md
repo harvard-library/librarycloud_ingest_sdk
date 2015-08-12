@@ -18,4 +18,14 @@
 
 # Scaling up and running on EC2
 
-* Vagrant
+* Commit the code to Github
+** ISSUE: Can we support code not on Github, but deployed from local server?
+* Install Vagrant and the vagrant AWS plugin
+* Get default box ??
+* Setup environment variables for AWS
+* vagrant up
+
+* Find out name of new server
+* Create auto-scaling group
+* Start auto-scaling group
+* Destroy auto-scaling group

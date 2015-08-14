@@ -17,6 +17,7 @@ The LibraryCloud Ingest SDK makes it easy to add additional steps to the Library
 
 * What to edit
 * How to work with the data structures
+* Testing with sample messages
 
 # Scaling up and running on EC2
 

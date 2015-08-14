@@ -1,5 +1,7 @@
 # Goals
 
+The LibraryCloud Ingest SDK makes it easy to add additional steps to the LibraryCloud pipeline.
+
 # Prerequsites
 
 * Maven and other software

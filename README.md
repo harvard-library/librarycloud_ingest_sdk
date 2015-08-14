@@ -2,10 +2,6 @@
 
 The LibraryCloud Ingest SDK makes it possible to add additional steps to the LibraryCloud pipeline.
 
-# Background Reading
-
-WIP
-
 # Prerequsites
 
 * Software: Maven, Git, Java

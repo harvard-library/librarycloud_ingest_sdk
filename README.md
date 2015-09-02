@@ -28,9 +28,9 @@ This command will build and run the Apache Camel pipeline in the foreground, pri
 
 printed to the log.
 
-As part of initialization, the camel process will create any SQS queues defined in ```camel-context.xml``` that do not already exist. In the default configuration these will ```librarycloud-developer-done``` and ```librarycloud-developer-dead-letter```.
+As part of initialization, the camel process will create any SQS queues defined in ```camel-context.xml``` that do not already exist. In the default configuration these will be ```librarycloud-developer-done``` and ```librarycloud-developer-dead-letter```.
 
-Nothing will happen until a message appears on a queue that the process is monitoring. To validate the configuration, copy the text from ```data/sample_message_01.xml``` and manually post a new message to inbound messages SQS queue by right-clicking on the queue name and selecting "Send a Message".
+Nothing will happen until a message appears on a queue that the process is monitoring. To validate the configuration, copy the text from ```data/sample_message_01.xml``` and manually post a new message to the inbound message SQS queue by right-clicking on the queue name and selecting "Send a Message".
 
 When the local process picks up the message, some additional output will be printed. If the sample pipeline componenet is invoked correctly, it will print 
 

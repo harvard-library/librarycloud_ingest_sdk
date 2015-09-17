@@ -1,0 +1,3702 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<mods>
+		<titleInfo>
+			<title>News from the Church of Finland</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Suomen evankelis-luterilainen kirkko</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">fi</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Helsinki</placeTerm>
+			</place>
+			<publisher>The Centre</publisher>
+			<dateIssued>[1974-</dateIssued>
+			<dateIssued encoding="marc" point="start">1974</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency authority="marcfrequency">Semiannual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 30 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">The Evangelical-Lutheran Church of Finland, Information Centre.</note>
+		<note type="date/sequential designation">28.8.74-</note>
+		<note>Title from caption.</note>
+		<note type="numbering">Issues numbered no. 1-   each year.</note>
+		<subject>
+			<geographicCode authority="marcgac">e-fi---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Lutheran Church</topic>
+			<geographic>Finland</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Christian denominations -- Other Protestant denominations -- Lutheran churches -- Periodicals</topic>
+		</subject>
+		<classification authority="lcc">BX8001</classification>
+		<relatedItem displayLabel="Also available on microfilm:" type="otherFormat">
+			<titleInfo>
+				<title>News from the Church of Finland</title>
+			</titleInfo>
+			<identifier type="local">(DLC)  2001221613</identifier>
+			<identifier type="local">(OCoLC)11966456</identifier>
+		</relatedItem>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>News (Suomen Evankelisluterilainen Kirkko)</title>
+			</titleInfo>
+			<identifier type="local">(DLC)  2001221612</identifier>
+			<identifier type="local">(OCoLC)7878485</identifier>
+		</relatedItem>
+		<identifier type="lccn">2001221612</identifier>
+		<location>
+			<shelfLocator>Film Mas C6453</shelfLocator>
+			<physicalLocation>MMF</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Period. 4411</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">BTI</recordContentSource>
+			<recordCreationDate encoding="marc">811026</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20080425152602.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000157988</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>La </nonSort>
+			<title>Chronique des mines d'outre-mer et de la recherche minière</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Bureau d'études géologiques et minières, Paris</namePart>
+		</name>
+		<name type="corporate">
+			<namePart>France</namePart>
+			<namePart>Bureau de recherches géologiques, géophysiques et minières.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">fr</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Paris</placeTerm>
+			</place>
+			<publisher>[Le Bureau</publisher>
+			<dateIssued>1957?-1960?]</dateIssued>
+			<dateIssued encoding="marc" point="start">1957</dateIssued>
+			<dateIssued encoding="marc" point="end">1960</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Monthly.</frequency>
+			<frequency authority="marcfrequency">Monthly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>4 v. : ill. ; 28 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Bureau d'études geologiques et minières.</note>
+		<note type="date/sequential designation">25. année (janv. 1957)-28. année (déc. 1960) = No 247-no 293.</note>
+		<note>Title from cover.</note>
+		<note>Vols. 26- include two supplements, Bulletin trimestrial, v. 10- and Liste mensuelle de traductions, no 31- both issued by the Service d'information géologique, Bureau de recherches géologiques, géophysiques et minières.</note>
+		<note>Published in cooperation with: Bureau de recherches géologiques, geophysiques, et minières, and Association des services géologiques africains.</note>
+		<subject authority="LCC">
+			<topic>Technology -- Mining engineering. Metallurgy -- Periodicals and societies -- Other languages (not A-Z)</topic>
+		</subject>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Chronique des mines coloniales</title>
+			</titleInfo>
+			<identifier type="local">(OCoLC)7879812</identifier>
+		</relatedItem>
+		<relatedItem type="succeeding">
+			<titleInfo>
+				<title>Chronique des mines et de la recherche minière</title>
+			</titleInfo>
+			<identifier type="local">(OCoLC)4687993</identifier>
+		</relatedItem>
+		<identifier type="lccn">60040729</identifier>
+		<location>
+			<shelfLocator>Gj-F815c</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PER 3018</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">811026</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000157996</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>La </nonSort>
+			<title>Chronique des mines d'outre mer</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Bureau d'études géologiques et minières coloniales (France)</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">fr</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Paris</placeTerm>
+			</place>
+			<publisher>[Le Bureau</publisher>
+			<dateIssued>1956?]</dateIssued>
+			<dateIssued encoding="marc" point="start">1956</dateIssued>
+			<dateIssued encoding="marc" point="end">1956</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Monthly.</frequency>
+			<frequency authority="marcfrequency">Monthly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>1 v. : ill. ; 28 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Bureau d'études géologiques et minières coloniales.</note>
+		<note type="date/sequential designation">24. année (janv. 1956)-24. année (déc. 1956) = No 235-no 246.</note>
+		<note>Title from cover.</note>
+		<subject>
+			<geographicCode authority="marcgac">f------</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Mineral industries</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Mineral industries</topic>
+			<geographic>Africa</geographic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Geology, Economic</topic>
+			<geographic>Africa</geographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Technology -- Mining engineering. Metallurgy -- Periodicals and societies -- Other languages (not A-Z)</topic>
+		</subject>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Chronique des mines coloniales</title>
+			</titleInfo>
+			<identifier type="local">(OCoLC)7879812</identifier>
+		</relatedItem>
+		<relatedItem type="succeeding">
+			<titleInfo>
+				<title>Chronique des mines d'outre mer et de la recherche minière</title>
+			</titleInfo>
+			<identifier type="local">(OCoLC)7880245</identifier>
+		</relatedItem>
+		<location>
+			<shelfLocator>Gj-F815c</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PER 3018</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">HUL</recordContentSource>
+			<recordCreationDate encoding="marc">811026</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000157997</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Serbian studies</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>North American Society for Serbian Studies</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">ilu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">[Chicago, Ill.]</placeTerm>
+			</place>
+			<publisher>North American Society for Serbian Studies</publisher>
+			<dateIssued>1980-</dateIssued>
+			<dateIssued encoding="marc" point="start">1980</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 23 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Vol. 1, no. 1 (spring 1980)-</note>
+		<note>Title from cover.</note>
+		<subject authority="LCC">
+			<topic>World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History of Balkan Peninsula -- Yugoslavia. Former Yugoslav republics -- Local history and description -- Serbia -- Periodicals. Societies. Serials</topic>
+		</subject>
+		<identifier type="issn">0742-3330</identifier>
+		<identifier type="lccn">sn 82021953</identifier>
+		<location>
+			<shelfLocator>DR1932 .S47x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">IUL</recordContentSource>
+			<recordCreationDate encoding="marc">811118</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000158218</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Mathematics and computer education</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>Math. comput. educ</title>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Garden City [N.Y.]</placeTerm>
+			</place>
+			<publisher>Mathematics and Computer Education</publisher>
+			<dateIssued>[c1982-</dateIssued>
+			<dateIssued encoding="marc" point="start">1982</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Three no. a year</frequency>
+			<frequency authority="marcfrequency">Three times a year</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 23 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Vol. 16, no. 1 (winter 1982)-</note>
+		<note>Title from cover.</note>
+		<note type="additional physical form">Available on microfilm and microfiche through University Microfilms International.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Mathematics</topic>
+			<topic>Study and teaching (Higher)</topic>
+			<geographic>United States</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Mathematics</topic>
+			<topic>Data processing</topic>
+			<topic>Study and teaching (Higher)</topic>
+			<geographic>United States</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Electronic data processing</topic>
+			<topic>Study and teaching (Higher)</topic>
+			<geographic>United States</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Science -- Mathematics -- Study and teaching. Research -- By region or country -- United States -- General works</topic>
+		</subject>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>Computer &amp; control abstracts</title>
+			</titleInfo>
+			<originInfo>
+				<dateOther type="coverage">Winter 1982-</dateOther>
+			</originInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>Electrical &amp; electronics abstracts</title>
+			</titleInfo>
+			<originInfo>
+				<dateOther type="coverage">Winter 1982-</dateOther>
+			</originInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>Physics abstracts. Science abstracts. Series A</title>
+			</titleInfo>
+			<originInfo>
+				<dateOther type="coverage">Winter 1982-</dateOther>
+			</originInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>Current index to journals in education</title>
+			</titleInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>Mathematical reviews</title>
+			</titleInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>ZDM. Zentralblatt für Didaktik der Mathematik</title>
+			</titleInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>MATYC journal</title>
+			</titleInfo>
+			<identifier type="issn">0092-1424</identifier>
+			<identifier type="local">(DLC) 73647003</identifier>
+		</relatedItem>
+		<identifier type="issn">0730-8639</identifier>
+		<identifier invalid="yes" type="issn">0092-1424</identifier>
+		<identifier type="lccn">82643159</identifier>
+		<identifier invalid="yes" type="lccn">sn 82001146</identifier>
+		<location>
+			<shelfLocator>QA13 .M16</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:HUL.ejournals:sfx958480290368</url>
+		</location>
+		<location>
+			<shelfLocator>QA13 .M16</shelfLocator>
+			<physicalLocation>GUT</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">820119</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20130809172259.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000158622</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>African study monographs</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Kyōto Daigaku</namePart>
+			<namePart>Afurika Chiiki Kenkyū Chōsa Iinkai.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<genre authority="marcgt">review</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">ja</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Kyoto</placeTerm>
+			</place>
+			<publisher>Research Committee for African Area Studies</publisher>
+			<dateIssued>c1981-</dateIssued>
+			<dateIssued encoding="marc" point="start">1981</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Annual.</frequency>
+			<frequency authority="marcfrequency">Annual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 26 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Vol. 1 (1981)-</note>
+		<subject>
+			<geographicCode authority="marcgac">f------</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>Africa</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History of Africa -- Periodicals. Societies. Sources and documents. Serials</topic>
+		</subject>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Kyoto University African studies</title>
+			</titleInfo>
+			<identifier type="local">(DLC) 74646832</identifier>
+		</relatedItem>
+		<identifier type="issn">0285-1601</identifier>
+		<identifier type="lccn">82641558</identifier>
+		<location>
+			<shelfLocator>L.SOC.69.99.17.3.5</shelfLocator>
+			<physicalLocation>TOZ</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>DT1 .K9a</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:HUL.ejournals:sfx110978978736913</url>
+		</location>
+		<location>
+			<shelfLocator>DT1 .A22969x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>L.SOC.69.99.17.3.5</shelfLocator>
+			<physicalLocation>TOZ</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">HUL</recordContentSource>
+			<recordCreationDate encoding="marc">820208</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20090712072332.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000158840</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Minutes</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="corporate">
+			<namePart>United Church of Christ</namePart>
+			<namePart>General Synod.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">xxu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">[S.l.]</placeTerm>
+			</place>
+			<publisher>UCC</publisher>
+			<dateIssued>[1959?]-</dateIssued>
+			<dateIssued encoding="marc" point="start">1959</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Biennial</frequency>
+			<frequency authority="marcfrequency">Biennial</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 22-28 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">the ... General Synod of the United Church of Christ.</note>
+		<note type="date/sequential designation">2nd (1959)-</note>
+		<note type="numbering">Meeting of the 1959 Synod completed in an adjourned session in 1960.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<name type="corporate">
+				<namePart>United Church of Christ.</namePart>
+				<namePart>General Synod.</namePart>
+			</name>
+		</subject>
+		<subject authority="fast">
+			<name type="corporate">
+				<namePart>United Church of Christ.</namePart>
+				<namePart>General Synod.</namePart>
+			</name>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Christian denominations -- Other Protestant denominations -- United Church of Christ</topic>
+		</subject>
+		<classification authority="lcc">WMLC L 83/3516</classification>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Minutes</title>
+			</titleInfo>
+			<name>
+				<namePart>United Church of Christ. Uniting General Synod.</namePart>
+			</name>
+			<identifier type="local">(OCoLC)7914610</identifier>
+		</relatedItem>
+		<identifier type="lccn">sf 86092538</identifier>
+		<identifier type="stock number">Office of the Secretary, UCC, 105 Madison Ave., N.Y., N.Y. 10016</identifier>
+		<location>
+			<shelfLocator>BX9884.A2 A1</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BX9884.A2 A1</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">VYN</recordContentSource>
+			<recordCreationDate encoding="marc">820215</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150608154531.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000158893</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+			<languageOfCataloging>
+				<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			</languageOfCataloging>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Brandeis' illustrirter isr[aelitischer] Volkskalender für das Jahr der Welt</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Illustrirter israelitischer Volkskalender für das Jahr der Welt</title>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">xr</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Prag</placeTerm>
+			</place>
+			<publisher>Jakob B. Brandeis</publisher>
+			<dateIssued>[1881-</dateIssued>
+			<dateIssued encoding="marc" point="start">1881</dateIssued>
+			<dateIssued encoding="marc" point="end">19uu</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Annual.</frequency>
+			<frequency authority="marcfrequency">Annual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">microfilm</form>
+			<form authority="gmd">microform</form>
+			<extent>v. : ill. ; 14 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">1880/1881-</note>
+		<note type="date/sequential designation">Ceased with 1933 issue?</note>
+		<note>Description based on: 1881/1882.</note>
+		<subject authority="lcsh">
+			<topic>Jewish almanacs</topic>
+			<geographic>Czechoslovakia</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<location>
+			<shelfLocator>Film S 3165</shelfLocator>
+			<physicalLocation>MIC</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">VXJ</recordContentSource>
+			<recordCreationDate encoding="marc">820304</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150805133619.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000159051</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Telegen reporter</title>
+			<subTitle>worldwide biotechnology and genetic engineering intelligence network</subTitle>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>Telegen report</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Environment Information Center</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">abstract or summary</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">[New York, NY</placeTerm>
+			</place>
+			<publisher>Environment Information Center</publisher>
+			<dateIssued>c1982-</dateIssued>
+			<dateIssued encoding="marc" point="start">1982</dateIssued>
+			<dateIssued encoding="marc" point="end">1988</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Monthly</frequency>
+			<frequency authority="marcfrequency">Monthly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>7 v. : ill. ; 28 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Vol. 1, no. 1 (Mar. 1982)-v. 7, no. 11-12 (Nov.-Dec. 1988).</note>
+		<note>Title from caption.</note>
+		<note>Issued also in an annual cumulation called: Telegen reporter review, &lt;198u-198u&gt;; and: Telegen reporter annual, 1988- .</note>
+		<subject authority="lcsh">
+			<topic>Biotechnology</topic>
+			<topic>Abstracts</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Genetic engineering</topic>
+			<topic>Abstracts</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="mesh">
+			<topic>Biomedical Engineering</topic>
+			<topic>abstracts</topic>
+		</subject>
+		<subject authority="mesh">
+			<topic>Genetic Engineering</topic>
+			<topic>abstracts</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Technology -- Chemical technology -- Biotechnology -- General works</topic>
+		</subject>
+		<classification authority="lcc">TP248.2 .T44</classification>
+		<classification authority="ddc" edition="19">574.87/328</classification>
+		<relatedItem type="otherVersion">
+			<titleInfo>
+				<title>Telegen reporter annual</title>
+			</titleInfo>
+			<identifier type="issn">0000-1201</identifier>
+			<identifier type="local">(DLC) 89656267</identifier>
+			<identifier type="local">(OCoLC)19176569</identifier>
+		</relatedItem>
+		<relatedItem type="otherVersion">
+			<titleInfo>
+				<title>Telegen reporter review</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="succeeding">
+			<titleInfo>
+				<title>Telegen abstracts</title>
+			</titleInfo>
+			<identifier type="issn">0000-118X</identifier>
+			<identifier type="local">(DLC) 89657216</identifier>
+			<identifier type="local">(OCoLC)18974279</identifier>
+		</relatedItem>
+		<identifier type="issn">0743-8443</identifier>
+		<identifier type="lccn">84643679 //r892</identifier>
+		<identifier invalid="yes" type="lccn">sc 83006276</identifier>
+		<location>
+			<shelfLocator>ZQH 442 T267</shelfLocator>
+			<physicalLocation>MED</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">YHM</recordContentSource>
+			<recordCreationDate encoding="marc">820428</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000159540</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Anales del Seminario de Historia de la Filosofía</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>An. Semin. Hist. Filos</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="conference">
+			<namePart>Seminario de Historia de la Filosofía (Spain)</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="corporate">
+			<namePart>Universidad Complutense de Madrid</namePart>
+			<namePart>Departamento de Historia de la Filosofía.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">conference publication</genre>
+		<genre authority="fast">History.</genre>
+		<genre authority="fast">Periodicals.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">sp</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Madrid</placeTerm>
+			</place>
+			<publisher>Facultad de Filosofía y Ciencias de la Educación, Universidad Complutense de Madrid</publisher>
+			<dateIssued>1980-</dateIssued>
+			<dateIssued encoding="marc" point="start">1980</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency authority="marcfrequency">Unknown</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 24 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">1 (1980)-</note>
+		<note>Conference sponsored by: Departamento de Historia de la Filosofía, Universidad Complutense de Madrid, 1980-</note>
+		<subject authority="swd">
+			<temporal>Geschichte</temporal>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Philosophy</topic>
+			<topic>History</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="swd">
+			<topic>Philosophie</topic>
+		</subject>
+		<subject authority="fast">
+			<topic>Philosophy</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Philosophy (General) -- Periodicals. Serials -- Spanish and Portuguese</topic>
+		</subject>
+		<classification authority="lcc">B5 .S45a</classification>
+		<classification authority="ddc">109</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Anales del Seminario de Historia de la Filosofía</title>
+			</titleInfo>
+			<name>
+				<namePart>Seminario de Historia de la Filosofía (Spain)</namePart>
+			</name>
+			<identifier type="local">(OCoLC)606097136</identifier>
+		</relatedItem>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Anales del Seminario de Historia de la Filosofía</title>
+			</titleInfo>
+			<name>
+				<namePart>Seminario de Historia de la Filosofía (Spain)</namePart>
+			</name>
+			<identifier type="local">(OCoLC)607265876</identifier>
+		</relatedItem>
+		<identifier type="issn">0211-2337</identifier>
+		<identifier type="issn-l">0211-2337</identifier>
+		<identifier type="lccn">82642912</identifier>
+		<identifier type="stock number">Editorial de la Universidad Complutense, Edificio de Estomatología (bajos), Ciudad Universitaria, Madrid, 3</identifier>
+		<location>
+			<shelfLocator>B5 .S45a</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:HUL.ejournals:sfx110978984348235</url>
+		</location>
+		<location>
+			<shelfLocator>B5 .S45a</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">820429</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20141222162422.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000159544</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+			<languageOfCataloging>
+				<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			</languageOfCataloging>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>De </nonSort>
+			<title>Kerkbode</title>
+			<subTitle>het vereenigd kerkblad der N.G. Kerken in Zuid Afrika</subTitle>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Algemene kerkbode</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Kerkbode (Cape Town, South Africa : 1910)</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Nederduitse Gereformeerde Kerk</namePart>
+		</name>
+		<name type="corporate">
+			<namePart>Nederduitse Gereformeerde Kerk in Suid-Afrika</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<genre authority="fast">Periodicals.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">sa</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Kaapstad</placeTerm>
+			</place>
+			<publisher>[s.n.</publisher>
+			<dateIssued>1910]-</dateIssued>
+			<dateIssued encoding="marc" point="start">1910</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>3 no. a month (except Jan. and July), 1996-</frequency>
+			<frequency>Weekly, 1910-1995</frequency>
+			<frequency authority="marcfrequency">Weekly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">afr</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill., ports. ; 27-41 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">D. 1, no. 1 (7 Juli 1910)-</note>
+		<note>Title from caption.</note>
+		<note type="numbering">Since 1994- Die Kerkbode issued on 1st and 3rd Friday of each month; Algemene kerkbode issued 2nd Friday of each month except Jan. and July.</note>
+		<note type="numbering">Issues for Jan.-June 1926 called v. 16 and v. 17.</note>
+		<note type="numbering">Issued in 2 v. a year, 1926-</note>
+		<note type="numbering">Issues for Jan. 30, 1957-&lt;May 8, 1985&gt; also called Jahrg. 108-&lt;137&gt;</note>
+		<note type="numbering">Issue for Dec. 6, 2013 called: Deel 192, Nr. 9, but constitutes: Deel 191, Nr. 9; Issue for Jan. 17, 2014 called: Deel 193, Nr. 10, but constitutes: Deel 192, Nr. 1.</note>
+		<note type="additional physical form">Also issued on microfilm by American Theological Library Association.</note>
+		<note>Organ of: Ned. Geref. Kerke in Suid-Afrika, 1910-Feb. 27, 1963; of: Ned. Geref. Kerk, Mar. 6, 1963-</note>
+		<note>Formed by the union of: Kerkbode (Cape Town, South Africa : 1884), Fakkel, and: Vereeniging (Ned. Herv. of Geref. Kerk in Zuid-Afrika).</note>
+		<subject>
+			<geographicCode authority="marcgac">f-sa---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<name type="corporate">
+				<namePart>Nederduitse Gereformeerde Kerk</namePart>
+			</name>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<name type="corporate">
+				<namePart>Nederduitse Gereformeerde Kerk in Suid-Afrika</namePart>
+			</name>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="fast">
+			<name type="corporate">
+				<namePart>Nederduitse Gereformeerde Kerk.</namePart>
+			</name>
+		</subject>
+		<subject authority="fast">
+			<name type="corporate">
+				<namePart>Nederduitse Gereformeerde Kerk in Suid-Afrika.</namePart>
+			</name>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Reformed Church</topic>
+			<geographic>South Africa</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="fast">
+			<topic>Reformed Church</topic>
+		</subject>
+		<subject authority="fast">
+			<geographic>South Africa</geographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Christian denominations -- Other Protestant denominations -- Reformed or Calvinistic churches -- By country</topic>
+		</subject>
+		<classification authority="lcc">BX9595.S6</classification>
+		<relatedItem type="otherFormat">
+			<originInfo>
+				<publisher>American Theological Library Association</publisher>
+			</originInfo>
+			<identifier type="local">(DLC)sn 98016526</identifier>
+			<identifier type="local">(OCoLC)40639833</identifier>
+		</relatedItem>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Kerkbode (Cape Town, South Africa : 1884)</title>
+			</titleInfo>
+			<identifier type="local">(DLC)sn 98016524</identifier>
+			<identifier type="local">(OCoLC)8385370</identifier>
+		</relatedItem>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Fakkel</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Vereeniging (Ned. Herv. of Geref. Kerk in Zuid-Afrika)</title>
+			</titleInfo>
+			<identifier type="local">(DLC)sc 83005261</identifier>
+			<identifier type="local">(OCoLC)5933435</identifier>
+		</relatedItem>
+		<identifier type="lccn">sc 83005262</identifier>
+		<identifier invalid="yes" type="lccn">sn 98016527</identifier>
+		<location>
+			<shelfLocator>Period. 938.8</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Film Mas C6340</shelfLocator>
+			<physicalLocation>MMF</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Period. 938.8</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Period. 5072</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">BTI</recordContentSource>
+			<recordCreationDate encoding="marc">820430</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20140925105048.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000159569</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+			<languageOfCataloging>
+				<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			</languageOfCataloging>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Geosur</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Asociación Sudamericana de Estudios Geopolíticos e Internacionales</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">uy</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">[Montevideo]</placeTerm>
+			</place>
+			<publisher>La Asociación</publisher>
+			<dateIssued>1979-</dateIssued>
+			<dateIssued encoding="marc" point="start">1979</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Monthly</frequency>
+			<frequency authority="marcfrequency">Monthly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 23 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">[Asociación Sudamericana de Estudios Geopolíticos e Internacionales]</note>
+		<note type="date/sequential designation">[Año 1, no. 1] (sept. 1979)-</note>
+		<note type="numbering">Issues for sept. 1979-mayo 1980 unnumbered but constitute año 1, no. 1-9.</note>
+		<subject>
+			<geographicCode authority="marcgac">cl-----</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Geopolitics</topic>
+			<geographic>Latin America</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>Latin America</geographic>
+			<topic>Economic conditions</topic>
+			<temporal>1945-</temporal>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>Latin America</geographic>
+			<topic>Politics and government</topic>
+			<temporal>1948-</temporal>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Social sciences -- Economic history and conditions -- By region or country -- America. Western Hemisphere -- Latin America -- General</topic>
+		</subject>
+		<classification authority="lcc">HC121 .G46</classification>
+		<classification authority="ddc">330.98/0005</classification>
+		<identifier type="issn">0250-7609</identifier>
+		<identifier type="lccn">82643195</identifier>
+		<location>
+			<shelfLocator>HC121 .G46</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">820514</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20021025130404.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000159687</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Circular</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Circular (State Geological Survey (Miss.))</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>State Geological Survey (Miss.)</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">series</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">msu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">University, Miss</placeTerm>
+			</place>
+			<publisher>The Survey</publisher>
+			<dateIssued>1953-1954</dateIssued>
+			<dateIssued encoding="marc" point="start">1953</dateIssued>
+			<dateIssued encoding="marc" point="end">1954</dateIssued>
+			<issuance>serial</issuance>
+			<frequency authority="marcfrequency">Unknown</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 22 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Mississippi, State Geological Survey.</note>
+		<note type="date/sequential designation">1-4.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us-ms</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Geology</topic>
+			<geographic>Mississippi</geographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Science -- Geology -- Geographical divisions -- America -- North America -- United States -- United States Geological Survey -- General publications of the USGS</topic>
+		</subject>
+		<location>
+			<shelfLocator>CM 6080</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg"/>
+			<recordCreationDate encoding="marc">820603</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000159839</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Kvekeren</title>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">no</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">[Oslo]</placeTerm>
+			</place>
+			<publisher>Vennenes Samfunn</publisher>
+			<dateIssued encoding="marc" point="start">1937</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Quarterly</frequency>
+			<frequency authority="marcfrequency">Quarterly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">nor</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 28 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Began in 1937. Cf. Union list of serials.</note>
+		<note>Title from cover.</note>
+		<note>Description based on: 1980, nr. 1.</note>
+		<subject>
+			<geographicCode authority="marcgac">e-no---</geographicCode>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Christian denominations -- Other Protestant denominations -- Friends. Society of Friends. Quakers -- Periodicals. Serials</topic>
+		</subject>
+		<identifier type="issn">0332-9232</identifier>
+		<identifier invalid="yes" type="issn">1503-5719</identifier>
+		<identifier type="lccn">sc 83003035</identifier>
+		<location>
+			<shelfLocator>Film Mas C 1661</shelfLocator>
+			<physicalLocation>MMF</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Period. 5139</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Period. 1002.52</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">BHA</recordContentSource>
+			<recordCreationDate encoding="marc">820805</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20051021123922.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000160285</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Information series</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Information series (Mississippi. Bureau of Geology)</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Mississippi</namePart>
+			<namePart>Bureau of Geology.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">series</genre>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">msu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Jackson, Miss</placeTerm>
+			</place>
+			<publisher>The Bureau</publisher>
+			<dateIssued encoding="marc" point="start">1982</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency authority="marcfrequency">Unknown</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill., maps ; 28 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Mississippi Department of Natural Resources, Bureau of Geology.</note>
+		<note type="date/sequential designation">Began in 1982.</note>
+		<note>Description based on: 84-1; title from cover.</note>
+		<note type="bibliography">Includes bibliographies.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us-ms</geographicCode>
+		</subject>
+		<subject authority="LCC">
+			<topic>Science -- Geology -- Geographical divisions -- America -- North America -- United States -- By state -- Mississippi -- General works</topic>
+		</subject>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Information series (Mississippi. Bureau of Geology and Energy Resources)</title>
+			</titleInfo>
+			<identifier type="local">(OCoLC)8741630</identifier>
+		</relatedItem>
+		<location>
+			<shelfLocator>CM 6300</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">GIS</recordContentSource>
+			<recordCreationDate encoding="marc">820903</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000160553</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Directory of U.S. labor organizations</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>Dir. U.S. labor organ</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Directory of US labor organizations</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Bureau of National Affairs (Arlington, Va.)</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">directory</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">dcu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Washington, D.C</placeTerm>
+			</place>
+			<publisher>Bureau of National Affairs</publisher>
+			<dateIssued>[1982-</dateIssued>
+			<dateIssued encoding="marc" point="start">1983</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Annual, 1996-</frequency>
+			<frequency>Biennial 1982/1983-1994/1995</frequency>
+			<frequency authority="marcfrequency">Annual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 28 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">1982-83 ed.-</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Labor unions</topic>
+			<geographic>United States</geographic>
+			<genre>Directories</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Labor unions</topic>
+			<geographic>United States</geographic>
+			<genre>Statistics</genre>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Social sciences -- Industries. Land use. Labor -- Labor. Work. Working class -- Trade unions. Labor unions. Workers' associations -- By region or country -- United States -- Directories</topic>
+		</subject>
+		<classification authority="lcc">HD6504 .D64</classification>
+		<classification authority="ddc" edition="19">331.88/025/73</classification>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Directory of national unions and employee associations</title>
+			</titleInfo>
+			<identifier type="issn">0090-4163</identifier>
+			<identifier type="local">(DLC)   73641250</identifier>
+			<identifier type="local">(OCoLC)1785101</identifier>
+		</relatedItem>
+		<identifier type="issn">0734-6786</identifier>
+		<identifier type="lccn">83641865</identifier>
+		<identifier invalid="yes" type="lccn">sn 82006896</identifier>
+		<identifier type="stock number">Bureau of National Affairs, 1231 25th St., Washington, D.C. 20037</identifier>
+		<location>
+			<shelfLocator>HD6504 .D57</shelfLocator>
+			<physicalLocation>BAK</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HD6504 .D642</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HD6504 .D64</shelfLocator>
+			<physicalLocation>KSG</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HD6504 .D642</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HD 6504 .D57x</shelfLocator>
+			<physicalLocation>LAW</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>12</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">NSD</recordContentSource>
+			<recordCreationDate encoding="marc">820920</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20090106151100.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000160644</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Neḳudah</title>
+			<subTitle>ʻiton ha-yishuvim, bi-Yehudah, Shomron, ṿe-ḥevel ʻAzah</subTitle>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Neḳudah</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Agudah le-ḳidum ha-ikhlus ṿeha-ḳeliṭah bi-Yehudah, Shomron, ṿe-ḥevel ʻAzah (Israel)</namePart>
+		</name>
+		<name type="corporate">
+			<namePart>ʻAmutah le-ḳidum ha-tarbut, ha-ámanut, ha-íkhlus ṿeha-ḳeliṭah bi-Yehudah, Shomron, Ḥevel ʻAzah u-viḳat ha-Yarden (Israel)</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">wj</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">ʻOfrah</placeTerm>
+			</place>
+			<publisher>ha-Agudah le-ḳidum ha-ikhlus ṿeha-ḳeliṭah bi-Yehudah, Shomron, ṿe-ḥevel ʻAzah</publisher>
+			<dateIssued encoding="marc" point="start">19uu</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Monthly (irregular), &lt;2003-&gt;</frequency>
+			<frequency authority="marcfrequency">Monthly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">heb</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 28-30 cm.</extent>
+		</physicalDescription>
+		<note>Subtitle dropped, &lt;2003-&gt;</note>
+		<note>Description based on: Gil. mis. 45 (16.7.1982); title from cover.</note>
+		<note>Latest issue consulted: Gil. mis. 270 (mai 2004).</note>
+		<note>Published by: ha-ʻAmutah le-ḳidum ha-tarbut, ha-ámanut, ha-íkhlus ṿeha-ḳeliṭah bi-Yehudah, Shomron, Ḥevel ʻAzah u-viḳat ha-Yarden, &lt;2003-&gt;</note>
+		<subject>
+			<geographicCode authority="marcgac">a-is---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Jews</topic>
+			<geographic>West Bank</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Jews</topic>
+			<geographic>Gaza Strip</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>West Bank</geographic>
+			<topic>Ethnic relations</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>Gaza Strip</geographic>
+			<topic>Ethnic relations</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History of Asia -- Israel (Palestine). The Jews -- Periodicals. Societies. Serials</topic>
+		</subject>
+		<classification authority="lcc">DS101 .N356</classification>
+		<identifier type="issn">0792-3295</identifier>
+		<identifier type="lccn">83643823</identifier>
+		<location>
+			<shelfLocator>PHeb 66.40.5</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>DS101 .N356</shelfLocator>
+			<physicalLocation>LAW</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Film Mas S 231</shelfLocator>
+			<physicalLocation>MMF</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Film S 3471</shelfLocator>
+			<physicalLocation>MIC</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PHeb 66.40.5</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">830607</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150805133515.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000160861</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>African study monographs</title>
+			<partName>Supplementary issue</partName>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>Afr. study monogr., Suppl. issue</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Kyōto Daigaku</namePart>
+			<namePart>Afurika Chiiki Kenkyū Chōsa Iinkai.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">ja</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">[Kyoto, Japan]</placeTerm>
+			</place>
+			<publisher>Research Committee for African Area Studies, Kyoto University</publisher>
+			<dateIssued>1982-</dateIssued>
+			<dateIssued encoding="marc" point="start">1982</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Irregular</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 26 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">No. 1-</note>
+		<note>Latest issue consulted: No. 37 (2007).</note>
+		<note>Some issues accompanied by DVD.</note>
+		<subject>
+			<geographicCode authority="marcgac">f------</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>Africa</geographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History of Africa -- Periodicals. Societies. Sources and documents. Serials</topic>
+		</subject>
+		<classification authority="lcc">DT1 .A2297</classification>
+		<classification authority="ddc" edition="19">960/.05</classification>
+		<relatedItem type="host">
+			<titleInfo>
+				<title>African study monographs</title>
+			</titleInfo>
+			<identifier type="local">(DLC)   82641558</identifier>
+			<identifier type="local">(OCoLC)8137689</identifier>
+		</relatedItem>
+		<identifier type="issn">0286-9667</identifier>
+		<identifier type="lccn">83644713</identifier>
+		<identifier type="stock number">Editorial Office of African Study Monographs, Laboratory of Human Evolution Studies, Faculty of Science, Kyoto University, Kitashirakawa, Sakyo-ku, Kyoto 606, Japan</identifier>
+		<location>
+			<shelfLocator>L.SOC.69.99.17.3.5.19</shelfLocator>
+			<physicalLocation>TOZ</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>DT1 .A2297</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:HUL.ejournals:sfx110978978736941</url>
+		</location>
+		<location>
+			<shelfLocator>DT1 .A2297</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>L.SOC.69.99.17.3.5.19</shelfLocator>
+			<physicalLocation>TOZ</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>DT1 .A2297</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">SMI</recordContentSource>
+			<recordCreationDate encoding="marc">820929</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20110723001644.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000161240</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>Die </nonSort>
+			<title>Schiefertafel</title>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Hamburg</placeTerm>
+			</place>
+			<publisher>E. Hauswedell &amp; Co.</publisher>
+			<dateIssued>1978-1986</dateIssued>
+			<dateIssued encoding="marc" point="start">1978</dateIssued>
+			<dateIssued encoding="marc" point="end">1986</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>3 issues yearly, 1980-1986</frequency>
+			<frequency>Two issues yearly, 1978-1979</frequency>
+			<frequency authority="marcfrequency">Three times a year</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>9 v. : ill. ; 24 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Jahrg. 1, Heft 1 (Juli 1978)-Jahrg. 9, No. 3 (Dez. 1986).</note>
+		<note>Title from cover.</note>
+		<subject authority="lcsh">
+			<topic>Children's literature, German</topic>
+			<topic>History and criticism</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Language and literature -- Literature (General) -- Literary history -- Juvenile literature</topic>
+		</subject>
+		<relatedItem type="succeeding">
+			<titleInfo>
+				<title>Phaedrus</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="issn">0344-984X</identifier>
+		<identifier type="lccn">sc 83007509</identifier>
+		<identifier invalid="yes" type="lccn">sn 83011307</identifier>
+		<location>
+			<shelfLocator>PN1009.G3 S24x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">VA@</recordContentSource>
+			<recordCreationDate encoding="marc">821111</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000161525</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Quill &amp; quire</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>Quill quire</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Quill and quire</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Forthcoming books</title>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">onc</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Toronto</placeTerm>
+			</place>
+			<publisher>Key Publishers Co. [etc.]</publisher>
+			<dateIssued encoding="marc" point="start">1935</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency authority="marcfrequency">Monthly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ill. 26-44 cm. (issues 44 cm. folded to 22 x 29 cm.)</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Began in 1935. Cf. Union list of serials.</note>
+		<note>Issues for 1978- include a section called: Forthcoming books.</note>
+		<note>Latest issue consulted: Vol. 72, no. 4 (May 2006).</note>
+		<note>Some no. accompanied by a supplement with title: Cumulative catalogue.</note>
+		<note>After Feb. 1989 includes a section called: Books for young people, ISSN 0835-8885, which was previously published separately.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-cn---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Book industries and trade</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Book industries and trade</topic>
+			<geographic>Canada</geographic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Canadian literature</topic>
+			<genre>Bibliography</genre>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Édition</topic>
+			<geographic>Canada</geographic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Bibliography. Library science. Information resources (general) -- Book industries and trade -- Bookselling and publishing -- By region or country -- Canada</topic>
+		</subject>
+		<classification authority="lcc">Z487 .Q8</classification>
+		<classification authority="ddc">655.505</classification>
+		<relatedItem type="constituent">
+			<titleInfo>
+				<title>Forthcoming books</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="constituent">
+			<titleInfo>
+				<title>Books for young people (Toronto, Ont.)</title>
+			</titleInfo>
+			<identifier type="issn">0835-8885</identifier>
+			<identifier type="local">(OCoLC)17463410</identifier>
+			<identifier type="local">(CaOONL)880302631</identifier>
+		</relatedItem>
+		<relatedItem type="constituent">
+			<titleInfo>
+				<title>Canadian publishers' directory</title>
+			</titleInfo>
+			<identifier type="issn">0008-4859</identifier>
+			<identifier type="local">(OCoLC)2510184</identifier>
+		</relatedItem>
+		<relatedItem type="constituent">
+			<titleInfo>
+				<title>Forthcoming books</title>
+			</titleInfo>
+			<name>
+				<namePart>National Library of Canada.</namePart>
+			</name>
+			<identifier type="issn">1187-6301</identifier>
+		</relatedItem>
+		<relatedItem type="otherFormat">
+			<originInfo>
+				<publisher>Library of Congress Photoduplication Service</publisher>
+			</originInfo>
+			<identifier type="local">(DLC)sf 92095222</identifier>
+		</relatedItem>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Books for young people (Toronto. Ont.)</title>
+			</titleInfo>
+			<identifier type="issn">0835-8885</identifier>
+			<identifier type="local">(OCoLC)17463410</identifier>
+			<identifier type="local">(CaOONL)880302631</identifier>
+		</relatedItem>
+		<identifier type="issn">0033-6491</identifier>
+		<identifier type="lccn">49054461</identifier>
+		<identifier invalid="yes" type="lccn">cn 76309106</identifier>
+		<identifier type="stock number">Subscriber Service, 35 Riviera Dr., Unit 17, Markham, Ont. L3R 8N4</identifier>
+		<location>
+			<physicalLocation>CRL</physicalLocation>
+		</location>
+		<location>
+			<physicalLocation>CRL</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Film S 3437</shelfLocator>
+			<physicalLocation>MIC</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Z487 .Q8</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">MUL</recordContentSource>
+			<recordCreationDate encoding="marc">751101</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20071116162939.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000161532</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+			<languageOfCataloging>
+				<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			</languageOfCataloging>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Journal of law and information science</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>J. law inf. sci</title>
+		</titleInfo>
+		<titleInfo displayLabel="Issues for 2005- have title:" type="alternative">
+			<title>Journal of law, information and science</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>New South Wales Institute of Technology</namePart>
+			<namePart>Faculty of Law.</namePart>
+		</name>
+		<name type="corporate">
+			<namePart>New South Wales Institute of Technology</namePart>
+			<namePart>Faculty of Mathematical and Computing Sciences.</namePart>
+		</name>
+		<name type="corporate">
+			<namePart>University of Tasmania</namePart>
+			<namePart>Faculty of Law.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<genre authority="marcgt">legal article</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">tma</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">[Broadway, N.S.W.]</placeTerm>
+			</place>
+			<publisher>Faculties of Law, and Mathematical and Computing Sciences, New South Wales Institute of Technology</publisher>
+			<dateIssued>1981-</dateIssued>
+			<dateIssued encoding="marc" point="start">1981</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Annual, &lt;2005-&gt;</frequency>
+			<frequency authority="marcfrequency">Annual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 26 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Vol. 1, no. 1-</note>
+		<note>Title from cover.</note>
+		<note>Latest issue consulted: Vol. 18 (2007).</note>
+		<note>Issued by: Hobart, Tasmania : Faculty of Law, University of Tasmania, &lt;1986-&gt;</note>
+		<subject>
+			<geographicCode authority="marcgac">u-at---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Computers</topic>
+			<topic>Law and legislation</topic>
+			<geographic>Australia</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Information storage and retrieval systems</topic>
+			<topic>Law</topic>
+			<geographic>Australia</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Computers</topic>
+			<topic>Law and legislation</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Information storage and retrieval systems</topic>
+			<topic>Law</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Science and law</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="gtt">
+			<topic>Informaticarecht</topic>
+		</subject>
+		<subject authority="gtt">
+			<topic>Rechtsinformatica</topic>
+		</subject>
+		<subject authority="rvm">
+			<topic>Systèmes d'information</topic>
+			<topic>Droit (Science)</topic>
+			<geographic>Australie</geographic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Systèmes d'information</topic>
+			<topic>Droit (Science)</topic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Ordinateurs</topic>
+			<topic>Droit</topic>
+			<geographic>Australie</geographic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Ordinateurs</topic>
+			<topic>Droit</topic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Law -- Law in general. Comparative and uniform law. Jurisprudence -- Periodicals -- By main entry -- J</topic>
+		</subject>
+		<classification authority="lcc">K10 .O8733</classification>
+		<classification authority="ddc" edition="19">343.94/0999 349.403999</classification>
+		<identifier type="issn">0729-1485</identifier>
+		<identifier type="issn-l">0729-1485</identifier>
+		<identifier type="lccn">84646046</identifier>
+		<identifier invalid="yes" type="lccn">sc 83001298</identifier>
+		<identifier type="stock number">Journal of Law, Information and Science, c/o The Law School, University of Tasmania, Private Bag 89, Hobart, Tasmania 7001, Australia</identifier>
+		<identifier type="stock number">Wm. W. Gaunt &amp; Sons Inc., Gaunt Building, 3011 Gulf Drive, Holmes Beach, Florida 34217-2199, USA</identifier>
+		<location>
+			<shelfLocator>K10</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:HUL.ejournals:sfx110985822457026</url>
+		</location>
+		<location>
+			<shelfLocator>K10 .O87353x</shelfLocator>
+			<physicalLocation>LAW</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">CLU</recordContentSource>
+			<recordCreationDate encoding="marc">821116</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20091019122006.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000161543</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>KRS, Kentucky revised statutes and rules service</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Kentucky revised statutes and rules service</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Baldwin's KRS. Acts issue</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Acts issue</title>
+		</titleInfo>
+		<titleInfo nameTitleGroup="1" type="uniform">
+			<title>Laws, etc. (Session laws)</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="corporate">
+			<namePart>Kentucky</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="corporate">
+			<namePart>Banks-Baldwin Law Publishing Company</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">legislation</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">mnu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Cleveland</placeTerm>
+			</place>
+			<publisher>Banks-Baldwin</publisher>
+			<dateIssued encoding="marc" point="start">19uu</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<edition>Baldwin's official ed.</edition>
+			<issuance>serial</issuance>
+			<frequency>Annual</frequency>
+			<frequency authority="marcfrequency">Annual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : forms ; 27 cm.</extent>
+		</physicalDescription>
+		<note>&quot;Acts issue.&quot;</note>
+		<note>Issues for &lt;2000&gt;- called Baldwin's certified version.</note>
+		<note>&quot;This is an unofficial version of the Acts of the ... General Assembly published for our subscribers. The only official publication of Kentucky Acts is that done by the Legislative Research Commission, pursuant to KRS 57.151&quot;--T.p. verso.</note>
+		<note>&quot;Acts of the ... regular session of the General Assembly with official KRS numbers designated by the Reviser of Statutes.&quot;</note>
+		<note>Description based on: 1982.</note>
+		<note>Latest issue consulted: 2007.</note>
+		<note>Issued by: Banks-Baldwin Law Publishing Company, &lt;1982-1992&gt;; West Group, &lt;2000&gt;-; Thomson/West, &lt;2007-&gt;</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us-ky</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Law</topic>
+			<geographic>Kentucky</geographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Law -- United States (Kentucky)</topic>
+		</subject>
+		<classification authority="lcc">KFK1225 .B35</classification>
+		<identifier invalid="yes" type="lccn">82647081</identifier>
+		<location>
+			<shelfLocator>KFK1225 .B35</shelfLocator>
+			<physicalLocation>LAW</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">821210</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20090501150518.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000161686</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Well data summary sheets</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Well data summary sheets (Copenhagen, Denmark)</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Danmarks geologiske undersøgelse</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">dk</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Copenhagen</placeTerm>
+			</place>
+			<publisher>Geological Survey of Denmark</publisher>
+			<dateIssued>1981-</dateIssued>
+			<dateIssued encoding="marc" point="start">1981</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency authority="marcfrequency">Unknown</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 30 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Vol. 1-</note>
+		<subject>
+			<geographicCode authority="marcgac">e-dk---</geographicCode>
+			<geographicCode authority="marcgac">ln-----</geographicCode>
+		</subject>
+		<location>
+			<shelfLocator>SERIAL</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg"/>
+			<recordCreationDate encoding="marc">830110</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000161808</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Scientific American</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>América cientifica é industrial 1895-Mar. 1903</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Scientific American (Export ed.)</title>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Munn &amp; Co.</publisher>
+			<dateIssued encoding="marc" point="start">1845</dateIssued>
+			<dateIssued encoding="marc" point="end">1908</dateIssued>
+			<edition>Export ed.</edition>
+			<issuance>serial</issuance>
+			<frequency>Monthly</frequency>
+			<frequency authority="marcfrequency">Monthly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 41 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Ceased in June 1908.</note>
+		<note>Description based on: July, 1978; title from caption.</note>
+		<note type="language">English and Spanish, 1895-Feb. 1903.</note>
+		<subject authority="lcsh">
+			<topic>Science</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Science -- Science (General) -- Societies -- America -- United States</topic>
+		</subject>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>América científica e industrial</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="succeeding">
+			<titleInfo>
+				<title>América científica, industrial, agricola y ganadera</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="lccn">ca 12001194</identifier>
+		<location>
+			<shelfLocator>PER 7200.1</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">830124</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20110307132810.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000161877</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>List of serials indexed for online users</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>List of serials for online users</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Health Planning &amp; Administration</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>MEDLINE</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>POPLINE</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>National Library of Medicine (U.S.)</namePart>
+		</name>
+		<name type="corporate">
+			<namePart>United States</namePart>
+			<namePart>National Technical Information Service.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">mdu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">[Springfield, Va.]</placeTerm>
+			</place>
+			<publisher>U.S. Dept. of Commerce, National Technical Information Service</publisher>
+			<dateIssued>1983-</dateIssued>
+			<dateIssued encoding="marc" point="start">1983</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Annual</frequency>
+			<frequency authority="marcfrequency">Annual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 28 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">(U.S.) National Library of Medicine.</note>
+		<note type="date/sequential designation">1983-</note>
+		<note>Title from cover.</note>
+		<note>Provides information on sources cited in three MEDLARS files: MEDLINE (including the backfiles), Health Planning &amp; Administration, and POPLINE.</note>
+		<note>&quot;PB83-180851&quot;, etc.</note>
+		<subject authority="mesh">
+			<topic>Bibliography of Medicine</topic>
+		</subject>
+		<subject authority="mesh">
+			<topic>Health Planning</topic>
+			<topic>bibliography</topic>
+		</subject>
+		<subject authority="mesh">
+			<topic>Population</topic>
+			<topic>bibliography</topic>
+		</subject>
+		<subject authority="mesh">
+			<topic>Reference Books, Medical</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Medicine</topic>
+			<topic>Periodicals</topic>
+			<genre>Bibliography</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Health planning</topic>
+			<topic>Periodicals</topic>
+			<genre>Bibliography</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Health services administration</topic>
+			<genre>Periodicals</genre>
+			<genre>Bibliography</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Population</topic>
+			<genre>Periodicals</genre>
+			<genre>Bibliography</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Life sciences</topic>
+			<genre>Periodicals</genre>
+			<genre>Bibliography</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>MEDLINE</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="mesh">
+			<topic>Medicine</topic>
+			<genre>Bibliography</genre>
+		</subject>
+		<subject authority="gtt">
+			<topic>Online-systemen</topic>
+		</subject>
+		<subject authority="gtt">
+			<topic>Tijdschriften</topic>
+		</subject>
+		<subject authority="rvm">
+			<topic>Médecine</topic>
+			<genre>Périodiques</genre>
+			<genre>Bibliographie</genre>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Santé publique</topic>
+			<topic>Planification</topic>
+			<genre>Périodiques</genre>
+			<genre>Bibliographie</genre>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Santé, Services de</topic>
+			<topic>Administration</topic>
+			<genre>Périodiques</genre>
+			<genre>Bibliographie</genre>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Population</topic>
+			<genre>Périodiques</genre>
+			<genre>Bibliographie</genre>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Bibliography. Library science. Information resources (general) -- Subject bibliography -- Medicine -- Periodicals. Societies</topic>
+		</subject>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>List of serials and monographs indexed for online users</title>
+			</titleInfo>
+			<identifier type="issn">0196-755X</identifier>
+		</relatedItem>
+		<identifier type="issn">0736-7139</identifier>
+		<identifier type="lccn">sc 84001101</identifier>
+		<identifier invalid="yes" type="lccn">sn 83000240</identifier>
+		<location>
+			<shelfLocator>Z6660 .L66</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:HUL.ejournals:sfx110978978381979</url>
+		</location>
+		<location>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>ZW 1 L774</shelfLocator>
+			<physicalLocation>MED</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">NSD</recordContentSource>
+			<recordCreationDate encoding="marc">830207</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20110923180941.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000161946</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Exil</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Exil, 1933-1945</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Exil (Maintal, Germany)</title>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Maintal</placeTerm>
+			</place>
+			<publisher>Koch</publisher>
+			<dateIssued>1981-</dateIssued>
+			<dateIssued encoding="marc" point="start">1981</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Three issues yearly</frequency>
+			<frequency authority="marcfrequency">Three times a year</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 21 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Jahrg. 1981, Nr. 1-</note>
+		<subject authority="LCC">
+			<topic>Language and literature -- German literature -- Provincial, local, colonial, etc. -- German literature outside of Germany -- General -- History</topic>
+		</subject>
+		<identifier type="issn">0721-6742</identifier>
+		<location>
+			<shelfLocator>PT3808 .E94x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">NAM</recordContentSource>
+			<recordCreationDate encoding="marc">830217</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000162028</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>L'</nonSort>
+			<title>Infini</title>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">fr</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">[Paris</placeTerm>
+			</place>
+			<publisher>Editions Denoël</publisher>
+			<dateIssued>1983-</dateIssued>
+			<dateIssued encoding="marc" point="start">1983</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Quarterly.</frequency>
+			<frequency authority="marcfrequency">Quarterly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 23 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">1 (hiver 1983)-</note>
+		<note>Title from cover.</note>
+		<subject authority="LCC">
+			<topic>General works -- Periodicals -- French -- France</topic>
+		</subject>
+		<classification authority="lcc">AP20 .I44</classification>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Tel quel</title>
+			</titleInfo>
+			<identifier type="local">(OCoLC) 825202</identifier>
+		</relatedItem>
+		<location>
+			<shelfLocator>AP20 .I448x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">LYU</recordContentSource>
+			<recordCreationDate encoding="marc">830405</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000162384</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Culture &amp; agriculture</title>
+			<subTitle>bulletin of the Anthropological Study Group on Agrarian Systems</subTitle>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>Cult. agric</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Bulletin of the Anthropological Study Group on Agrarian Systems</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>C and A</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>C &amp; A</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Culture and agriculture</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Anthropological Study Group on Agrarian Systems (U.S.)</namePart>
+		</name>
+		<name type="corporate">
+			<namePart>Culture and Agriculture Group (U.S.)</namePart>
+		</name>
+		<name type="corporate">
+			<namePart>American Anthropological Association</namePart>
+			<namePart>Culture and Agriculture Section.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">azu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Corvallis, Or</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Arlington, VA</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Berkeley, Calif</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Hoboken, NJ</placeTerm>
+			</place>
+			<publisher>Anthropological Study Group on Agrarian Systems</publisher>
+			<dateIssued>1977-</dateIssued>
+			<publisher>Culture and Agriculture Section of the American Anthropological Association</publisher>
+			<publisher>University of California Press</publisher>
+			<publisher>John Wiley &amp; Sons</publisher>
+			<dateIssued encoding="marc" point="start">1977</dateIssued>
+			<dateIssued encoding="marc" point="end">2010</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Semiannual, 2002-2010</frequency>
+			<frequency>Frequency varies, 1977-2001</frequency>
+			<frequency authority="marcfrequency">Semiannual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 28-35 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">No. 1 (Jan. 77)-no. 53 (winter 1995/1996) ; Vol. 18, no. 1 (spring 1996)-v. 32, no. 2 (2010).</note>
+		<note>Vols. for spring 1996 lack subtitle.</note>
+		<note>Subtitle varies.</note>
+		<note>Title from caption.</note>
+		<note>Editorial and publishing support provided by: Tucson, Ariz. : Dept. of Anthropology, University of Arizona, &lt;1981-&gt;; New Brunswick, N.J. : Culture and Agriculture Group, &lt;1988-&gt;; Tucson, Ariz. : Office of Arid Lands Studies, University of Arizona, &lt;fall/winter 1990-&gt; ; Dept. of Anthropology, Michigan State University, &lt;1991&gt;-1995; University of Missouri, Kansas City, 1996; University of North Texas, 1997; University of Texas at San Antonio, 1998-</note>
+		<note>Latest issue consulted: Vol. 28, no. 1 (spring 2006).</note>
+		<note type="numbering">Some no. combined.</note>
+		<note type="additional physical form">Also issued online.</note>
+		<subject>
+			<geographicCode authority="marcgac">d------</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Sociology, Rural</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Sociology, Rural</topic>
+			<geographic>Developing countries</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Agriculture</topic>
+			<topic>Social aspects</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Agriculture</topic>
+			<topic>Social aspects</topic>
+			<geographic>Developing countries</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Agricultural development projects</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Agricultural development projects</topic>
+			<geographic>Developing countries</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Sociologie rurale</topic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Sociologie rurale</topic>
+			<geographic>Pays en voie de développement</geographic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Agriculture</topic>
+			<topic>Aspect social</topic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Agriculture</topic>
+			<topic>Aspect social</topic>
+			<geographic>Pays en voie de développement</geographic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Projets de développement agricole</topic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="rvm">
+			<topic>Projets de développement agricole</topic>
+			<geographic>Pays en voie de développement</geographic>
+			<genre>Périodiques</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Social sciences -- Communities. Classes. Races -- Rural groups. Rural sociology -- Periodicals. Serials</topic>
+		</subject>
+		<classification authority="lcc">HT401 .C85</classification>
+		<classification authority="ddc" edition="20">307.72/05</classification>
+		<relatedItem type="otherFormat">
+			<titleInfo>
+				<title>Culture &amp; agriculture (Online)</title>
+			</titleInfo>
+			<identifier type="issn">1556-486X</identifier>
+			<identifier type="local">(DLC)  2005262109</identifier>
+			<identifier type="local">(OCoLC)57411474</identifier>
+		</relatedItem>
+		<relatedItem type="succeeding">
+			<titleInfo>
+				<title>Culture, agriculture, food and environment</title>
+			</titleInfo>
+			<identifier type="issn">2153-9553</identifier>
+			<identifier type="local">(DLC)  2010200044</identifier>
+			<identifier type="local">(OCoLC)555793078</identifier>
+		</relatedItem>
+		<identifier type="issn">1048-4876</identifier>
+		<identifier type="issn-l">1048-4876</identifier>
+		<identifier type="lccn">91660180</identifier>
+		<identifier invalid="yes" type="lccn">sn 86017336</identifier>
+		<location>
+			<shelfLocator>L.SOC.120.Arz.9.8.9.3.1</shelfLocator>
+			<physicalLocation>TOZ</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HT401 .C85</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:HUL.ejournals:sfx991042730805344</url>
+		</location>
+		<location>
+			<shelfLocator>L.SOC.120.Arz.9.8.9.3.1</shelfLocator>
+			<physicalLocation>TOZ</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>L.SOC.120.Arz.9.8.9.3</shelfLocator>
+			<physicalLocation>TOZ</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>L.SOC.120.Arz.9.8.9.3</shelfLocator>
+			<physicalLocation>TOZ</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>11</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">AZU</recordContentSource>
+			<recordCreationDate encoding="marc">820810</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20111202123610.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000162616</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Minutes and reports of the ... annual meeting of the Vermont Conference of the United Church of Christ, Inc</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Statistics and reports and minutes of the annual meeting</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="corporate">
+			<namePart>United Church of Christ</namePart>
+			<namePart>Vermont Conference.</namePart>
+			<namePart>Meeting.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">directory</genre>
+		<genre authority="marcgt">conference publication</genre>
+		<genre authority="fast">Periodicals.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">vtu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Burlington, Vt</placeTerm>
+			</place>
+			<publisher>The Conference</publisher>
+			<dateIssued>[1966]-2001</dateIssued>
+			<dateIssued encoding="marc" point="start">1966</dateIssued>
+			<dateIssued encoding="marc" point="end">2001</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Annual</frequency>
+			<frequency authority="marcfrequency">Annual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>35 v. ; 22 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">171st (1966)-206th (2001).</note>
+		<note>Contains statistics and reports for the year previous to the annual meeting.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us-vt</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<name type="corporate">
+				<namePart>United Church of Christ</namePart>
+			</name>
+			<geographic>Vermont</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<name type="corporate">
+				<namePart>United Church of Christ.</namePart>
+				<namePart>Vermont Conference.</namePart>
+			</name>
+		</subject>
+		<subject authority="fast">
+			<name type="corporate">
+				<namePart>United Church of Christ.</namePart>
+			</name>
+		</subject>
+		<subject authority="fast">
+			<name type="corporate">
+				<namePart>United Church of Christ.</namePart>
+				<namePart>Vermont Conference.</namePart>
+			</name>
+		</subject>
+		<subject authority="fast">
+			<geographic>Vermont</geographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Christian denominations -- Other Protestant denominations -- United Church of Christ</topic>
+		</subject>
+		<classification authority="lcc">ISSN RECORD</classification>
+		<classification authority="lcc">BX9884</classification>
+		<classification authority="ddc" edition="14">285</classification>
+		<relatedItem displayLabel="Microfilm version:" type="otherFormat">
+			<titleInfo>
+				<title>Minutes and reports of the ... annual meeting of the Vermont Conference of the United Church of Christ, Inc</title>
+			</titleInfo>
+			<name>
+				<namePart>United Church of Christ. Vermont Conference. Meeting.</namePart>
+			</name>
+			<identifier type="local">(DLC)sn 99016330</identifier>
+			<identifier type="local">(OCoLC)42462059</identifier>
+		</relatedItem>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Minutes and reports of the ... annual meeting of the Vermont Congregational Conference and Domestic Missionary Society, Inc. (United Church of Christ)</title>
+			</titleInfo>
+			<name>
+				<namePart>United Church of Christ. Vermont Congregational Conference and Domestic Missionary Society. Meeting.</namePart>
+			</name>
+			<identifier type="local">(DLC)  2001221573</identifier>
+			<identifier type="local">(OCoLC)9579448</identifier>
+		</relatedItem>
+		<relatedItem type="succeeding">
+			<titleInfo>
+				<title>Yearbook</title>
+			</titleInfo>
+			<name>
+				<namePart>United Church of Christ. Vermont Conference. Meeting.</namePart>
+			</name>
+			<identifier type="issn">1942-3217</identifier>
+			<identifier type="local">(DLC)  2007234199</identifier>
+			<identifier type="local">(OCoLC)153989733</identifier>
+		</relatedItem>
+		<identifier type="issn">1942-3209</identifier>
+		<identifier type="issn-l">1942-3209</identifier>
+		<identifier type="lccn">sn 99016329</identifier>
+		<location>
+			<shelfLocator>Period. 4442</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BX9884.A2 V4</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">BTI</recordContentSource>
+			<recordCreationDate encoding="marc">830606</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150608154314.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000163054</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+			<languageOfCataloging>
+				<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			</languageOfCataloging>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Annual review of criminal law</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>Annu. rev. crim. law</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Criminal law</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Gold, Alan D.</namePart>
+		</name>
+		<name type="personal">
+			<namePart>Tanovich, David M.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">onc</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Toronto</placeTerm>
+			</place>
+			<publisher>Carswell</publisher>
+			<dateIssued>c1982-</dateIssued>
+			<dateIssued encoding="marc" point="start">1982</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Annual</frequency>
+			<frequency authority="marcfrequency">Annual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 23 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">1982-</note>
+		<note>Editors: Alan D. Gold, 1982-1997; David M. Tanovich, 1998-</note>
+		<subject>
+			<geographicCode authority="marcgac">n-cn---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Criminal law</topic>
+			<geographic>Canada</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Criminal procedure</topic>
+			<geographic>Canada</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Law -- Law of Canada -- Criminal law -- General</topic>
+		</subject>
+		<classification authority="lcc">KE8807.7 .G64</classification>
+		<classification authority="ddc" edition="19">345.71 347.105</classification>
+		<identifier type="issn">0821-7912</identifier>
+		<identifier type="lccn">83645790</identifier>
+		<identifier invalid="yes" type="lccn">cn 83030584</identifier>
+		<location>
+			<shelfLocator>KE8807.7 .A56</shelfLocator>
+			<physicalLocation>LAW</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">NLC</recordContentSource>
+			<recordCreationDate encoding="marc">830607</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000163064</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+			<languageOfCataloging>
+				<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			</languageOfCataloging>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Estudios públicos</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Centro de Estudios Públicos (Santiago, Chile)</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">cl</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Santiago, Chile</placeTerm>
+			</place>
+			<publisher>El Centro</publisher>
+			<dateIssued>1980-</dateIssued>
+			<dateIssued encoding="marc" point="start">1980</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Quarterly.</frequency>
+			<frequency authority="marcfrequency">Quarterly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">spa</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 22 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Centro de Estudios Públicos.</note>
+		<note type="date/sequential designation">No. 1 (dic. 1980)-</note>
+		<note>Title from cover.</note>
+		<subject authority="LCC">
+			<topic>Social sciences -- Social sciences (General) -- Periodicals. Serials</topic>
+		</subject>
+		<identifier type="issn">0716-1115</identifier>
+		<location>
+			<shelfLocator>HC191 .E87</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:HUL.ejournals:sfx110978978553759</url>
+		</location>
+		<location>
+			<shelfLocator>H8 .E785x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>H8 .E785x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>6</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">HLS</recordContentSource>
+			<recordCreationDate encoding="marc">830622</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20081114162549.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000163254</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Tijdschrift voor sociologie</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Vereniging voor Sociologie (Belgium)</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">be</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Gent</placeTerm>
+			</place>
+			<publisher>Vereniging voor Sociologie</publisher>
+			<dateIssued>1980-</dateIssued>
+			<dateIssued encoding="marc" point="start">1980</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Quarterly</frequency>
+			<frequency authority="marcfrequency">Quarterly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">dut</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 24 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">1. Jaarg., nr. 1-</note>
+		<note>Title from cover.</note>
+		<note>1980-1990. 1 v.</note>
+		<subject authority="lcsh">
+			<topic>Sociology</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Social sciences -- Sociology -- Periodicals -- Other languages</topic>
+		</subject>
+		<identifier type="lccn">sc 83008349</identifier>
+		<location>
+			<shelfLocator>HM7 .T54x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">HLS</recordContentSource>
+			<recordCreationDate encoding="marc">830713</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20070330160219.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000163427</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Montana State architectural review</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>Mont. State Archit. rev</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Montana State University (Bozeman)</namePart>
+			<namePart>School of Architecture.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">mtu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Bozeman, Mont</placeTerm>
+			</place>
+			<publisher>The University</publisher>
+			<dateIssued>c1983-c1992</dateIssued>
+			<dateIssued encoding="marc" point="start">1983</dateIssued>
+			<dateIssued encoding="marc" point="end">1992</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Annual</frequency>
+			<frequency authority="marcfrequency">Annual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>8 v. : ill., maps, plans ; 28 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">School of Architecture, Montana State University.</note>
+		<note type="date/sequential designation">Vol. 1 (spring 1983)-v. 8 (spring 1992).</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us-mt</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<name type="corporate">
+				<namePart>Montana State University (Bozeman).</namePart>
+				<namePart>School of Architecture</namePart>
+			</name>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Schools of architecture</topic>
+			<geographic>Montana</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Architecture</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<classification authority="lcc">WMLC 93/217</classification>
+		<classification authority="ddc" edition="11">720</classification>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>Avery index to architectural periodicals. Second edition. Revised and enlarged. Supplement</title>
+			</titleInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="succeeding">
+			<name>
+				<namePart>Montana State University architectural review</namePart>
+			</name>
+			<identifier type="local">(DLC)sn 95031732</identifier>
+			<identifier type="local">(OCoLC)33212986</identifier>
+		</relatedItem>
+		<identifier type="issn">0741-6849</identifier>
+		<identifier type="lccn">sf 93090593</identifier>
+		<identifier invalid="yes" type="lccn">sc 83008395</identifier>
+		<location>
+			<shelfLocator>Per</shelfLocator>
+			<physicalLocation>DES</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">FLL</recordContentSource>
+			<recordCreationDate encoding="marc">830808</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000163635</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Journal of area studies</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>J. area stud</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Portsmouth Polytechnic</namePart>
+			<namePart>School of Languages and Area Studies.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">enk</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Portsmouth, Hants</placeTerm>
+			</place>
+			<publisher>Portsmouth Polytechnic School of Languages and Area Studies</publisher>
+			<dateIssued>1980-1987</dateIssued>
+			<dateIssued encoding="marc" point="start">1980</dateIssued>
+			<dateIssued encoding="marc" point="end">1987</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Semiannual</frequency>
+			<frequency authority="marcfrequency">Semiannual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>15 v. : ill. ; 30 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">No. 1 (spring 1980)-no. 15 (autumn 1987).</note>
+		<note>Title from cover.</note>
+		<subject authority="lcsh">
+			<topic>Area studies</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="gtt">
+			<topic>Sociaal-economische ontwikkeling</topic>
+		</subject>
+		<subject authority="gtt">
+			<topic>Politieke ontwikkeling</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History (General) -- Study and teaching -- General special</topic>
+		</subject>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>America, history and life</title>
+			</titleInfo>
+			<originInfo>
+				<dateOther type="coverage">1980-</dateOther>
+			</originInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>Historical abstracts. Part A. Modern history abstracts</title>
+			</titleInfo>
+			<originInfo>
+				<dateOther type="coverage">1980-</dateOther>
+			</originInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>Historical abstracts. Part B. Twentieth century abstracts</title>
+			</titleInfo>
+			<originInfo>
+				<dateOther type="coverage">1980-</dateOther>
+			</originInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>ABC pol sci</title>
+			</titleInfo>
+			<originInfo>
+				<dateOther type="coverage">1981-1991</dateOther>
+			</originInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="succeeding">
+			<titleInfo>
+				<title>Journal of area studies (Loughborough, England)</title>
+			</titleInfo>
+			<identifier type="local">(DLC)sn 94031671</identifier>
+			<identifier type="local">(OCoLC)30857325</identifier>
+		</relatedItem>
+		<identifier type="issn">0261-3530</identifier>
+		<identifier type="lccn">sc 83002506</identifier>
+		<location>
+			<shelfLocator>D16.25 .J68 x</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:HUL.ejournals:sfx991042741184090</url>
+		</location>
+		<location>
+			<shelfLocator>D16.25 .J68x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">HLS</recordContentSource>
+			<recordCreationDate encoding="marc">830826</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150731171654.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000163810</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Italienisch</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Fachverband Italienisch in Wissenschaft und Unterricht (Frankfurt am Main, Germany)</namePart>
+		</name>
+		<name type="corporate">
+			<namePart>Deutsch-Italienische Vereinigung</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Frankfurt am Main</placeTerm>
+			</place>
+			<publisher>Diesterweg</publisher>
+			<dateIssued>1979-</dateIssued>
+			<dateIssued encoding="marc" point="start">1979</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Semiannual</frequency>
+			<frequency authority="marcfrequency">Semiannual</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 23 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">1 (1. Mai 1979)-</note>
+		<note>Title from cover.</note>
+		<note type="numbering">Issues for 1979- called also 1.- Jahrg.</note>
+		<note>&quot;Verbandsorgan des Fachverbandes Italienisch in Wissenschaft und Unterricht, herausgegeben in Zusammenarbeit mit der Deutsch-Italienischen Vereinigung e.V.&quot;</note>
+		<subject authority="LCC">
+			<topic>Language and literature -- Romance philology and languages -- Italian -- Philology</topic>
+		</subject>
+		<identifier type="issn">0171-4996</identifier>
+		<location>
+			<shelfLocator>PC1001 .I828x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">HLS</recordContentSource>
+			<recordCreationDate encoding="marc">830912</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000163917</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Library hotline</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>Libr. hotline</title>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York, N.Y</placeTerm>
+			</place>
+			<publisher>Bowker</publisher>
+			<dateIssued>c1983-</dateIssued>
+			<dateIssued encoding="marc" point="start">1983</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Weekly (except during July-Aug. and 2 Mondays closest to the year-end holidays)</frequency>
+			<frequency authority="marcfrequency">Weekly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. ; 28 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Vol. 12, no. 27 (Sept. 5, 1983)-</note>
+		<note>Title from caption.</note>
+		<subject authority="lcsh">
+			<topic>Library science</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Libraries</topic>
+			<geographic>United States</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Bibliography. Library science. Information resources (general) -- Libraries -- Library science. Information science -- Periodicals</topic>
+		</subject>
+		<classification authority="lcc">Z671 .L2</classification>
+		<classification authority="ddc" edition="19">020/.5</classification>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>LJ/SLJ hotline</title>
+			</titleInfo>
+			<identifier type="issn">0000-0078</identifier>
+			<identifier type="local">(DLC)   72622777</identifier>
+			<identifier type="local">(OCoLC)2950515</identifier>
+		</relatedItem>
+		<identifier type="issn">0740-736X</identifier>
+		<identifier invalid="yes" type="issn">0000-0493</identifier>
+		<identifier type="lccn">83648105</identifier>
+		<identifier invalid="yes" type="lccn">sn 83003282</identifier>
+		<identifier type="stock number">R.R. Bowker Co., 205 E. 42nd St., New York, NY 10017</identifier>
+		<location>
+			<physicalLocation>TOZ</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Z671 .L2x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">TXQ</recordContentSource>
+			<recordCreationDate encoding="marc">830914</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20041209173417.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000163933</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Bulletin of the Polish Academy of Sciences</title>
+			<partName>Mathematics</partName>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Mathematics</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Polska Akademia Nauk</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">pl</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Warsaw</placeTerm>
+			</place>
+			<publisher>Panstwowe Wydawn. Naukowe, Dział Czasopism</publisher>
+			<dateIssued>1983-</dateIssued>
+			<dateIssued encoding="marc" point="start">1983</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Four no. a year</frequency>
+			<frequency authority="marcfrequency">Quarterly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		</language>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">rus</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 24 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Vol. 31, no. 1-2-</note>
+		<note type="language">English, French, German, and Russian.</note>
+		<subject authority="LCC">
+			<topic>Science -- Mathematics -- Periodicals, societies, congresses, serial publications</topic>
+		</subject>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>Mathematical reviews</title>
+			</titleInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>Bulletin de l'Académie polonaise des sciences. Série des sciences mathématiques</title>
+			</titleInfo>
+			<identifier type="issn">0137-639X</identifier>
+			<identifier type="local">(DLC) 83645009</identifier>
+			<identifier type="local">(OCoLC)5340281</identifier>
+		</relatedItem>
+		<identifier type="issn">0239-7269</identifier>
+		<identifier invalid="yes" type="issn">0137-693X</identifier>
+		<identifier type="lccn">85641740</identifier>
+		<identifier invalid="yes" type="lccn">sc 84001315</identifier>
+		<location>
+			<shelfLocator>PER 2860</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QA1 .B779</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:HUL.ejournals:sfx110978977123946</url>
+		</location>
+		<location>
+			<shelfLocator>PER 2860</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">SUC</recordContentSource>
+			<recordCreationDate encoding="marc">831013</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20091225163636.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000164218</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Meister des Puppenspiels</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Deutsches Institut für Puppenspiel</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">series</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Bochum</placeTerm>
+			</place>
+			<publisher>Deutsches Institut für Puppenspiel</publisher>
+			<dateIssued>1958-[1980?]</dateIssued>
+			<dateIssued encoding="marc" point="start">1958</dateIssued>
+			<dateIssued encoding="marc" point="end">1980</dateIssued>
+			<issuance>serial</issuance>
+			<frequency authority="marcfrequency">Unknown</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 24 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Heft 1-Heft 37.</note>
+		<note>Title from cover.</note>
+		<subject authority="lcsh">
+			<topic>Puppet theater</topic>
+			<geographic>Germany</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Language and literature -- Drama -- Special types</topic>
+		</subject>
+		<classification authority="lcc">UNC</classification>
+		<classification authority="ddc" edition="19">791.5/3/05</classification>
+		<identifier type="lccn">sf 83008076</identifier>
+		<location>
+			<shelfLocator>PN1970 .M44x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">HLS</recordContentSource>
+			<recordCreationDate encoding="marc">831103</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000164350</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Currents</title>
+		</titleInfo>
+		<titleInfo type="abbreviated">
+			<title>Currents</title>
+			<subTitle>(Washington, D.C. 1983)</subTitle>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>CASE currents Sept. 1983-Nov./Dec. 1983</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>C.A.S.E. currents</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Council for Advancement and Support of Education currents</title>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Currents (Washington, D.C.)</title>
+		</titleInfo>
+		<name type="corporate">
+			<namePart>Council for Advancement and Support of Education</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">periodical</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">dcu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">[Washington, D.C.]</placeTerm>
+			</place>
+			<publisher>Council for Advancement and Support of Education</publisher>
+			<dateIssued>1983-</dateIssued>
+			<dateIssued encoding="marc" point="start">1983</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>serial</issuance>
+			<frequency>Monthly (except Aug. and Dec.)</frequency>
+			<frequency authority="marcfrequency">Monthly</frequency>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 30 cm.</extent>
+		</physicalDescription>
+		<note type="date/sequential designation">Vol. 9, no. 8 (Sept. 1983)-</note>
+		<note>Title from cover.</note>
+		<note type="numbering">Special issue each year, No. 7 (Aug.), is the membership directory.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Education, Higher</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Universities and colleges</topic>
+			<topic>Public relations</topic>
+			<geographic>United States</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Educational fund raising</topic>
+			<geographic>United States</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Universities and colleges</topic>
+			<geographic>United States</geographic>
+			<topic>Finance</topic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>College presidents</topic>
+			<geographic>United States</geographic>
+			<genre>Periodicals</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Education -- Theory and practice of education -- Higher education -- Periodicals</topic>
+		</subject>
+		<classification authority="lcc">LB2300 .C67a</classification>
+		<classification authority="ddc" edition="19">378/.005</classification>
+		<relatedItem type="isReferencedBy">
+			<titleInfo>
+				<title>Current index to journals in education</title>
+			</titleInfo>
+			<part>
+				<detail type="part">
+					<number/>
+				</detail>
+			</part>
+		</relatedItem>
+		<relatedItem type="preceding">
+			<titleInfo>
+				<title>CASE currents</title>
+			</titleInfo>
+			<name>
+				<namePart>Council for Advancement and Support of Education.</namePart>
+			</name>
+			<identifier type="issn">0360-862X</identifier>
+			<identifier type="local">(DLC) 75649546</identifier>
+			<identifier type="local">(OCoLC)1928048</identifier>
+		</relatedItem>
+		<identifier type="issn">0748-478X</identifier>
+		<identifier invalid="yes" type="issn">0360-862X</identifier>
+		<identifier type="lccn">84645170</identifier>
+		<identifier invalid="yes" type="lccn">sc 84007742</identifier>
+		<location>
+			<shelfLocator>LB2300 .C67a</shelfLocator>
+			<physicalLocation>GUT</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>LB2300 .C67ax</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<descriptionStandard>aacr</descriptionStandard>
+			<recordContentSource authority="marcorg">IXA</recordContentSource>
+			<recordCreationDate encoding="marc">831122</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20060713124413.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000164443</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+</modsCollection>

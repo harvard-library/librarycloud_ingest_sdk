@@ -1,0 +1,3665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<mods>
+		<titleInfo>
+			<title>Newtonian studies</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Koyré, Alexandre</namePart>
+			<namePart type="date">1892-1964</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">ilu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Chicago</placeTerm>
+			</place>
+			<publisher>University of Chicago Press</publisher>
+			<dateIssued>1968, c1965</dateIssued>
+			<dateIssued encoding="marc" point="start">1968</dateIssued>
+			<dateIssued encoding="marc" point="end">1965</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>viii, 288 p. : ill. ; 21 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Alexandre Koyré.</note>
+		<note type="bibliography">Includes bibliographical references and index.</note>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Newton, Isaac</namePart>
+				<namePart type="date">1642-1727</namePart>
+			</name>
+		</subject>
+		<subject authority="LCC">
+			<topic>Science -- Physics -- Biography</topic>
+		</subject>
+		<relatedItem>
+			<titleInfo>
+				<title>Phoenix books</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>The Betmann archive</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="isbn">0226451763</identifier>
+		<location>
+			<shelfLocator>QC16.N7 K68 1968</shelfLocator>
+			<physicalLocation>PHI</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QC16.N7 K68 x, 1968</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QC16.N7 K68 1968</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QC16.N5 K8 1968</shelfLocator>
+			<physicalLocation>PHY</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>2</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg"/>
+			<recordCreationDate encoding="marc">720322</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20060306135423.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000836700</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Mammalian hibernation</title>
+			<subTitle>proceedings of the First International Symposium on Natural Mammalian Hibernation, May 13-15, 1959</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="conference">
+			<namePart>International Symposium on Natural Mammalian Hibernation 1959 : Dedham, Mass.)</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Lyman, Charles Peirson</namePart>
+			<namePart type="date">1912-2010</namePart>
+			<role>
+				<roleTerm type="text">ed.</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Dawe, Albert R.</namePart>
+			<namePart type="date">1916-</namePart>
+			<role>
+				<roleTerm type="text">ed.</roleTerm>
+			</role>
+		</name>
+		<name type="corporate">
+			<namePart>American Institute of Biological Sciences</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="marcgt">conference publication</genre>
+		<genre authority="fast">Conference proceedings.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">mau</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Cambridge, Mass</placeTerm>
+			</place>
+			<publisher>The Museum</publisher>
+			<dateIssued>1960</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>549 p. illus., diagrs. 24 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Edited by Charles P. Lyman and Albert R. Dawe.</note>
+		<note type="bibliography">Includes bibliographies.</note>
+		<subject authority="lcsh">
+			<topic>Mammals</topic>
+			<topic>Behavior</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Hibernation</topic>
+			<genre>Congresses</genre>
+		</subject>
+		<subject authority="mesh">
+			<topic>Hibernation</topic>
+			<topic>congresses</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Mammals</topic>
+			<topic>Hibernation</topic>
+			<genre>Congresses</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Science -- Zoology -- Periodicals, societies, congresses, serial publications</topic>
+		</subject>
+		<classification authority="lcc">QL1 .H3 vol. 124</classification>
+		<classification authority="nlm">W1 HA679</classification>
+		<relatedItem>
+			<titleInfo>
+				<title>Bulletin of the Museum of Comparative Zoology at Harvard College, v. 124</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Bulletin of the Museum of Comparative Zoology ; v. 124</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="lccn">a 61001382</identifier>
+		<location>
+			<shelfLocator>HUF 298.810 vol.124</shelfLocator>
+			<physicalLocation>HUA</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QL755 .I5 1959</shelfLocator>
+			<physicalLocation>MCZ</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">Harvard Univ. Library</recordContentSource>
+			<recordCreationDate encoding="marc">760413</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150805141157.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000837443</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Kaspar and other plays</title>
+		</titleInfo>
+		<titleInfo nameTitleGroup="1" type="uniform">
+			<title>Plays. Selections. English</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Handke, Peter.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Roloff, Michael</namePart>
+			<role>
+				<roleTerm type="text">translator.</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Farrar, Straus, and Giroux</publisher>
+			<dateIssued>[1969]</dateIssued>
+			<dateIssued encoding="marc">1969</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>139 p. 21 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>Offending the audience.--Self-accusation.--Kaspar.</tableOfContents>
+		<note type="statement of responsibility">Translated by Michael Roloff.</note>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Handke, Peter</namePart>
+			</name>
+			<topic>Translations into English</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Austrian drama</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Language and literature -- German literature -- Individual authors or works -- 1961-2000 -- H</topic>
+		</subject>
+		<classification authority="lcc">PT2668.A5 A27</classification>
+		<classification authority="ddc">832/.9/14</classification>
+		<identifier type="isbn">0374508240 (pbk.)</identifier>
+		<identifier type="lccn">78103704 //r91</identifier>
+		<location>
+			<shelfLocator>51631.58.1160</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PT2668.A5 A27</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>6</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">700305</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000839465</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Air pollution</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Stern, Arthur C.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Stern, Arthur C.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Academic Press</publisher>
+			<dateIssued>1968</dateIssued>
+			<edition>2d ed.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>3 v. illus. (part col.) 24 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>v. 1. Air pollution and its effects.--v. 2. Analysis, monitoring, and surveying.--v. 3. Sources of air pollution and their control.</tableOfContents>
+		<note type="statement of responsibility">edited by Arthur C. Stern.</note>
+		<note type="bibliography">Includes bibliographies.</note>
+		<subject authority="lcsh">
+			<topic>Air</topic>
+			<topic>Pollution</topic>
+		</subject>
+		<subject authority="mesh">
+			<topic>Air Pollution</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Technology -- Environmental technology. Sanitary engineering -- Special types of environment -- Air pollution and its control -- General works</topic>
+		</subject>
+		<classification authority="lcc">TD883 .S83</classification>
+		<classification authority="nlm">WA 754 S839a</classification>
+		<classification authority="ddc">628/.53</classification>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Environmental sciences</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Air pollution</title>
+			</titleInfo>
+			<name>
+				<namePart>Stern, Arthur C.</namePart>
+			</name>
+			<originInfo>
+				<publisher>New York, Academic Press, 1968</publisher>
+				<edition>2d ed.</edition>
+			</originInfo>
+			<identifier type="local">(OCoLC)601017521</identifier>
+		</relatedItem>
+		<identifier type="lccn">67031042 //r853</identifier>
+		<location>
+			<shelfLocator>US 976.5</shelfLocator>
+			<physicalLocation>LAW</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>TD883 .S8</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>WA 754 S839a 1968</shelfLocator>
+			<physicalLocation>MED</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>TD883 .S83</shelfLocator>
+			<physicalLocation>BLH</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>TD883 .S83</shelfLocator>
+			<physicalLocation>MCK</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">731207</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000839822</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Kierkegaard's Concluding unscientific postscript</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Concluding unscientific postscript</title>
+		</titleInfo>
+		<titleInfo nameTitleGroup="1" type="uniform">
+			<title>Afsluttende uvidenskabelig efterskrift. English</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Kierkegaard, Søren</namePart>
+			<namePart type="date">1813-1855</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Lowrie, Walter</namePart>
+			<namePart type="date">1868-1959</namePart>
+		</name>
+		<name type="personal">
+			<namePart>Swenson, David F. (David Ferdinand)</namePart>
+			<namePart type="date">1876-1940</namePart>
+		</name>
+		<name type="personal">
+			<namePart>Swenson, David F. (David Ferdinand)</namePart>
+			<namePart type="date">1876-1940</namePart>
+			<role>
+				<roleTerm type="text">translator.</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Lowrie, Walter</namePart>
+			<namePart type="date">1868-1959</namePart>
+			<role>
+				<roleTerm type="text">ed. and tr.</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Swenson, David F. (David Ferdinand)</namePart>
+			<namePart type="date">1876-1940</namePart>
+			<role>
+				<roleTerm type="text">translator.</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Lowrie, Walter</namePart>
+			<namePart type="date">1868-19590812</namePart>
+			<role>
+				<roleTerm type="text">ed. and tr.</roleTerm>
+			</role>
+		</name>
+		<name type="corporate">
+			<namePart>American-Scandinavian Foundation</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="fast">History.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nju</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Princeton</placeTerm>
+			</place>
+			<publisher>Princeton University Press, for American Scandinavian Foundation</publisher>
+			<dateIssued>1941</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">dan</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xxi, 579 p. 24 cm.</extent>
+		</physicalDescription>
+		<abstract type="Summary">Besides a sense of personal loss at the death of David F. Swenson on February 11, 1940, I felt dismay that he had left unfinished his translation of the Unscientific Postscript. I had longed to see it published among the first of Kierkegaard's works in English. In the spring of 1935 it did not seem exorbitant to hope that it might be ready for the printer by the end of that year. For in March I learned from Professor Swenson that he had years before &quot;done about two thirds of a rough translation.&quot; In 1937/38 he took a sabbatical leave from his university for the sake of finishing this work. Yet after all it was not finished- partly because Professor Swenson was already incapacitated by the illness which eventually resulted in his death; but also because he aimed at a degree of perfection which hardly can be reached by a translator. At one time he expressed to me his suspicion that perhaps, as in the translation of Kant's philosophy, it might require the cooperation of many scholars during several generations before the translation of Kierkegaard's terminology could be definitely settled. I hailed with joy this new apprehension, which promised a speedy conclusion of the work, and in the words of Luther I urged him to &quot;sin boldly.&quot;--Editor's pref., p. [ix].</abstract>
+		<tableOfContents>bk. 1. The objective problem concerning the truth of Christianity -- bk. 2. The subjective problem, the relation of the subject to the truth of Christianity, the problem of becoming a Christian (pt. 1. Something about Lessing ; pt. 2. How the subjectivity of the individual must be qualified in order that the problem may exist for him).</tableOfContents>
+		<note type="statement of responsibility">translated from the Danish by David F. Swenson, completed after his death and provided with introduction and notes by Walter Lowrie.</note>
+		<note type="bibliography">Includes bibliographical references.</note>
+		<subject authority="lcsh">
+			<topic>Christianity</topic>
+			<topic>Philosophy</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Apologetics</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Apologetics</topic>
+			<topic>History</topic>
+			<temporal>19th century</temporal>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Christianity -- Philosophy of Christianity. Philosophy and Christianity</topic>
+		</subject>
+		<classification authority="lcc">BR100 .K47</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Kierkegaard's Concluding unscientific postscript</title>
+			</titleInfo>
+			<titleInfo type="uniform">
+				<title>Afsluttende uvidenskabelig efterskrift. English</title>
+			</titleInfo>
+			<name>
+				<namePart>Kierkegaard, Søren, 1813-1855.</namePart>
+			</name>
+			<originInfo>
+				<publisher>Princeton, Princeton University Press, for American Scandinavian Foundation, 1941</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)647300221</identifier>
+		</relatedItem>
+		<identifier type="lccn">41019350 //r855</identifier>
+		<location>
+			<shelfLocator>BR100 .K47</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Scan 6664.32.8.5</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BR100 .K47</shelfLocator>
+			<physicalLocation>PHI</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BR100 .K47</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>2</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">731023</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000839869</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Medicine at the Paris hospital, 1794-1848</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Ackerknecht, Erwin Heinz</namePart>
+			<namePart type="date">1906-1988</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">mdu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Baltimore</placeTerm>
+			</place>
+			<publisher>Johns Hopkins Press</publisher>
+			<dateIssued>[1967]</dateIssued>
+			<dateIssued encoding="marc">1967</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xiv, 242 p. illus. 24 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">by Erwin H. Ackerknecht.</note>
+		<note>Includes index.</note>
+		<note type="bibliography">Bibliography: p. 223-232.</note>
+		<subject authority="lcsh">
+			<name type="corporate">
+				<namePart>Université de Paris.</namePart>
+				<namePart>Faculté de médicine.</namePart>
+			</name>
+		</subject>
+		<subject authority="mesh">
+			<topic>History of Medicine</topic>
+		</subject>
+		<subject authority="mesh">
+			<topic>History of Medicine</topic>
+			<geographic>Paris</geographic>
+		</subject>
+		<subject authority="mesh">
+			<topic>History, 19th Century</topic>
+			<geographic>Paris</geographic>
+		</subject>
+		<subject authority="mesh">
+			<geographic>Paris</geographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Medicine -- Medicine (General) -- Medical education. Medical schools -- By region or country -- Europe -- France</topic>
+		</subject>
+		<classification authority="lcc">R784 .A7</classification>
+		<classification authority="nlm">WZ 70 GF7 A2ma 1967</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Medicine at the Paris hospital, 1794-1848</title>
+			</titleInfo>
+			<name>
+				<namePart>Ackerknecht, Erwin Heinz, 1906-1988.</namePart>
+			</name>
+			<originInfo>
+				<publisher>Baltimore, Johns Hopkins Press [1967]</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)607852359</identifier>
+		</relatedItem>
+		<identifier type="lccn">66023003</identifier>
+		<location>
+			<shelfLocator>R784</shelfLocator>
+			<physicalLocation>NET</physicalLocation>
+			<url>http://nrs.harvard.edu/urn-3:hul.ebookbatch.ACLS_batch:MIU01000000000000005841361</url>
+		</location>
+		<location>
+			<physicalLocation>MED</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>R784 .A7</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>R784 .A7</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>R784 .A7 1994x</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>12</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">731212</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20090107174910.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000840147</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Handbook of spectroscopy</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Robinson, James W.</namePart>
+			<namePart type="date">1923-</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="fast">Handbooks and manuals.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">ohu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Cleveland</placeTerm>
+			</place>
+			<publisher>CRC Press</publisher>
+			<dateIssued>[1974]-</dateIssued>
+			<dateIssued encoding="marc" point="start">1974</dateIssued>
+			<dateIssued encoding="marc" point="end">9999</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>v. : ill. ; 27 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">editor, J. W. Robinson.</note>
+		<note>At head of title: CRC.</note>
+		<note>Vol. 3- published in Boca Raton, Fla.</note>
+		<note type="bibliography">Includes bibliographical references and index.</note>
+		<subject authority="mesh">
+			<topic>Spectrum Analysis</topic>
+			<genre>Tables</genre>
+		</subject>
+		<subject authority="mesh">
+			<topic>Spectrum Analysis</topic>
+			<genre>Charts</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Spectrum analysis</topic>
+			<topic>Handbooks, manuals, etc</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Science -- Chemistry -- Analytical chemistry -- Qualitative analysis -- Spectrum analysis (Qualitative and quantitative) -- General works</topic>
+		</subject>
+		<classification authority="lcc">QD95 .H27</classification>
+		<classification authority="nlm">QD 95 H236 1974</classification>
+		<classification authority="ddc" edition="19">543/.0858</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Handbook of spectroscopy</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>Cleveland : CRC Press, [1974]-&lt;c1981&gt;</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)645907431</identifier>
+		</relatedItem>
+		<identifier type="isbn">0878193332 (v. 1)</identifier>
+		<identifier type="lccn">73077524 //r903</identifier>
+		<location>
+			<shelfLocator>QD95 .H27</shelfLocator>
+			<physicalLocation>WOL</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QD95 .H27X</shelfLocator>
+			<physicalLocation>WOL</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QD95 .H27</shelfLocator>
+			<physicalLocation>CHE</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QD95 .H27</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QD95 .H27</shelfLocator>
+			<physicalLocation>BLH</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QD95 .H27</shelfLocator>
+			<physicalLocation>MCK</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">741101</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20060927162121.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000840742</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Nobody speaks for me!</title>
+			<subTitle>Self-portraits of American working class women</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Seifer, Nancy.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">biography</genre>
+		<genre authority="fast">Biography.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Simon and Schuster</publisher>
+			<dateIssued>c1976</dateIssued>
+			<dateIssued encoding="marc">1976</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>477 p. : ill. ; 22 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>Preface -- Introduction -- Taking care of the neighborhood. Mary Sansone - Janice Bernstein -- Women helping women. Dorothy Bolden - Betty Gagne -- Joining the ranks: unionism and feminism. Cathy Tuley - Bonnie Halascsak -- Practical politics. Rosalinda Rodriguez - Anita Cupps -- Listening to each other across the class lines. Ann Winans - Terry Dezso.</tableOfContents>
+		<note type="statement of responsibility">Nancy Seifer.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Women</topic>
+			<geographic>United States</geographic>
+			<genre>Biography</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Working class</topic>
+			<geographic>United States</geographic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Working class women</topic>
+			<geographic>United States</geographic>
+			<genre>Biography</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Social sciences -- The Family. Marriage. Woman -- Women. Feminism -- By region or country -- America -- United States -- History -- Biography of reformers, feminists, etc. -- Collective</topic>
+		</subject>
+		<classification authority="lcc">HQ1412 .S44</classification>
+		<classification authority="ddc">301.41/2/0973</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Nobody speaks for me!</title>
+			</titleInfo>
+			<name>
+				<namePart>Seifer, Nancy.</namePart>
+			</name>
+			<originInfo>
+				<publisher>New York : Simon and Schuster, ©1976</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)654837361</identifier>
+		</relatedItem>
+		<identifier type="isbn">0671223089</identifier>
+		<identifier type="lccn">76011836 //r84</identifier>
+		<location>
+			<shelfLocator>301.4120973 S45n</shelfLocator>
+			<physicalLocation>SCH</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HQ1412 .S44</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HQ1412 .S44</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">760401</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000842193</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Jerusalem, Symbol und Wirklichkeit</title>
+			<subTitle>Materialien zu einer Stadt</subTitle>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Berger, Ulrike.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Berlin</placeTerm>
+			</place>
+			<publisher>Institut Kirche und Judentum</publisher>
+			<dateIssued>1976</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>68 p. ; 21 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Ulrike Berger ... [et al.].</note>
+		<note type="bibliography">Bibliography: p. 68.</note>
+		<subject>
+			<geographicCode authority="marcgac">a-is---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Jerusalem</topic>
+			<topic>In literature</topic>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>Jerusalem</geographic>
+			<topic>History</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History of Asia -- Israel (Palestine). The Jews -- Jerusalem -- History -- General works</topic>
+		</subject>
+		<relatedItem>
+			<titleInfo>
+				<title>Veröffentlichungen aus dem Institut Kirche und Judentum bei der Kirchlichen Hochschule Berlin ; Heft 1</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Veröffentlichungen aus dem Institut Kirche und Judentum ; 1</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="lccn">76470673</identifier>
+		<location>
+			<shelfLocator>DS109.9 .J46</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>DS 111</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">760723</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150804135920.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000842943</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Wie aktuell ist das Alte Testament?</title>
+			<subTitle>Beiträge aus Israel und Berlin</subTitle>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Berlin</placeTerm>
+			</place>
+			<publisher>Institut Kirche und Judentum</publisher>
+			<dateIssued>1976</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>87 p. ; 21 cm.</extent>
+		</physicalDescription>
+		<subject authority="lcsh">
+			<titleInfo>
+				<title>Bible</title>
+				<partName>Old Testament</partName>
+			</titleInfo>
+			<topic>Evidences, authority, etc</topic>
+		</subject>
+		<subject authority="lcsh">
+			<titleInfo>
+				<title>Bible</title>
+				<partName>Old Testament</partName>
+			</titleInfo>
+			<topic>Influence</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- The Bible -- General -- Works about the Bible -- Introductory works -- Inspiration. Authority. Credibility</topic>
+		</subject>
+		<relatedItem>
+			<titleInfo>
+				<title>Veröffentlichungen aus dem Institut Kirche und Judentum bei der Kirchlichen Hochschule Berlin ; 2</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Veröffentlichungen aus dem Institut Kirche und Judentum ; 2</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="lccn">76471254</identifier>
+		<location>
+			<shelfLocator>BS480 .W49</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BS 1110</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">760727</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150804135903.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000842944</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>The </nonSort>
+			<title>taste of America</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Hess, John L.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Hess, Karen</namePart>
+			<role>
+				<roleTerm type="text">author.</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Child, Julia</namePart>
+			<role>
+				<roleTerm type="text">former owner.</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="rdacontent">text</genre>
+		<genre authority="lcgft">Recipes.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Grossman Publishers</publisher>
+			<dateIssued>1977</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xiii, 384 pages ; 23 cm</extent>
+			<form authority="rdamedia" type="media">unmediated</form>
+			<form authority="rdacarrier" type="carrier">volume</form>
+		</physicalDescription>
+		<note type="statement of responsibility">John L. Hess &amp; Karen Hess.</note>
+		<note type="bibliography">Includes bibliographical references (pages 355-372) and index.</note>
+		<subject authority="lcsh">
+			<topic>Food</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Cooking</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Food industry and trade</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Cooking, American</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Food writers</topic>
+			<geographic>United States</geographic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Food industry and trade</topic>
+			<geographic>United States</geographic>
+		</subject>
+		<subject authority="rvm">
+			<topic>Aliments</topic>
+		</subject>
+		<subject authority="rvm">
+			<topic>Cuisine</topic>
+		</subject>
+		<subject authority="rvm">
+			<topic>Aliments</topic>
+			<topic>Industrie et commerce</topic>
+		</subject>
+		<subject authority="rvm">
+			<topic>Alimentation</topic>
+			<geographic>États-Unis</geographic>
+		</subject>
+		<subject authority="fast">
+			<topic>Cooking</topic>
+		</subject>
+		<subject authority="fast">
+			<topic>Food</topic>
+		</subject>
+		<subject authority="fast">
+			<topic>Food industry and trade</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Technology -- Home economics -- Nutrition. Foods and food supply -- General works. Sources, supply, etc. -- 1800-</topic>
+		</subject>
+		<classification authority="lcc">TX353 .H47 1977</classification>
+		<classification authority="ddc">641/.013</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Taste of America</title>
+			</titleInfo>
+			<name>
+				<namePart>Hess, John L.</namePart>
+			</name>
+			<originInfo>
+				<publisher>New York : Grossman Publishers, 1977</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)891428178</identifier>
+		</relatedItem>
+		<identifier type="isbn">0670693766</identifier>
+		<identifier type="isbn">9780670693764</identifier>
+		<identifier type="lccn">76041871</identifier>
+		<location>
+			<physicalLocation>SCH</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>641.01 H58t</shelfLocator>
+			<physicalLocation>SCH</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>TX353 .H47</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>TX353 .H47 1977</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>6</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">760831</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150804160041.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000843271</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+			<languageOfCataloging>
+				<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			</languageOfCataloging>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>The </nonSort>
+			<title>unmaking of a president</title>
+			<subTitle>Lyndon Johnson and Vietnam</subTitle>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Project Muse UPCC books</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Schandler, Herbert Y.</namePart>
+			<namePart type="date">1928-</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nju</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Princeton, N.J</placeTerm>
+			</place>
+			<publisher>Princeton University Press</publisher>
+			<dateIssued>c1977</dateIssued>
+			<dateIssued encoding="marc">1977</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xx, 419 p. : ill. ; 23 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>Introduction -- The decision to intervene, 1964-1965 -- The search for a strategic concept, 1965-1967 -- The eve of Tet -- The Tet Offensive and United States reaction -- Emergency augmentation -- The troop request -- The Clifford task force: A-to-Z reassessment -- The President ponders -- The climate of opinion -- Politics and economics -- End of a strategy -- The wise men -- The President makes a decision -- Continuity or change? -- Explaining the decision-making process -- Appendixes.</tableOfContents>
+		<note type="statement of responsibility">Herbert Y. Schandler.</note>
+		<note>Includes index.</note>
+		<note type="bibliography">Bibliography: p. 355-401.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+			<geographicCode authority="marcgac">avt----</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Johnson, Lyndon B. (Lyndon Baines)</namePart>
+				<namePart type="date">1908-1973</namePart>
+			</name>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Vietnam War, 1961-1975</topic>
+			<geographic>United States</geographic>
+		</subject>
+		<subject authority="rvm">
+			<topic>Guerre du Viêt-nam, 1961-1975</topic>
+			<geographic>États-Unis</geographic>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>United States</geographic>
+			<topic>Politics and government</topic>
+			<temporal>1963-1969</temporal>
+		</subject>
+		<subject authority="LCC">
+			<topic>World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History of Asia -- Southeast Asia -- French Indochina -- Vietnam. Annam -- History -- By period -- 1954-1975 -- Vietnam War -- By country -- United States -- General works</topic>
+		</subject>
+		<classification authority="lcc">DS558 .S33</classification>
+		<identifier type="isbn">0691075867</identifier>
+		<identifier type="lccn">76024297 //r84</identifier>
+		<location>
+			<shelfLocator>DS558 .S33</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>DS558 .S33</shelfLocator>
+			<physicalLocation>KSG</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>DS558 .S33</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>13</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">761208</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150516045633.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000844035</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Edward Everett Hale</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Adams, John R.</namePart>
+			<namePart type="date">1900-</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="fast">Criticism, interpretation, etc.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">mau</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Boston</placeTerm>
+			</place>
+			<publisher>Twayne Publishers</publisher>
+			<dateIssued>c1977</dateIssued>
+			<dateIssued encoding="marc">1977</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>144 p. : port. ; 21 cm. --</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">by John R. Adams. --</note>
+		<note>Includes index.</note>
+		<note type="bibliography">Bibliography: p. 137-140.</note>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart type="termsOfAddress">Sr</namePart>
+				<namePart>Hale, Edward Everett</namePart>
+				<namePart type="date">1822-1909</namePart>
+			</name>
+			<topic>Criticism and interpretation</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Language and literature -- American literature -- Individual authors -- 19th century -- Hale, Edward Everett</topic>
+		</subject>
+		<classification authority="lcc">PS1773 .A6</classification>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Twayne's United States authors series ; TUSAS 284</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Edward Everett Hale</title>
+			</titleInfo>
+			<name>
+				<namePart>Adams, John R., 1900-1994.</namePart>
+			</name>
+			<originInfo>
+				<publisher>Boston : Twayne Publishers, ©1977</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)560859848</identifier>
+		</relatedItem>
+		<identifier type="isbn">0805771867</identifier>
+		<identifier type="lccn">77001483</identifier>
+		<location>
+			<shelfLocator>PS1773 .A6</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PS1773 .A6</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>2</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">770210</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000844566</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Richard Wright reader</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Wright, Richard</namePart>
+			<namePart type="date">1908-1960</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Wright, Ellen</namePart>
+			<namePart type="date">1912?-2004</namePart>
+			<role>
+				<roleTerm type="text">editor.</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Fabre, Michel</namePart>
+			<role>
+				<roleTerm type="text">editor.</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="fast">Literary collections.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Harper &amp; Row</publisher>
+			<dateIssued>c1978</dateIssued>
+			<dateIssued encoding="marc">1978</dateIssued>
+			<edition>1st ed.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xxiv, 886 p. ; 20 cm.</extent>
+		</physicalDescription>
+		<abstract type="Summary">Black Boy (excerpt) -- Joe Louis Uncovers Dynamite -- Blueprint for Negro Writing -- Letters: Richard Wright/Burton Rascoe -- Richard Wright/David L. Cohn -- Richard Wright/Antonio Frasconi -- Review: Wars I Have Seen / Gertrude Stein -- There's Always Another Cafe -- Black Power (excerpt) -- Pagan Spain (excerpt) -- 12 Million Black Voices -- Poetry: I Have Seen Black Hands -- Between the World and Me -- Red Clay Blues -- The FB Eye Blues -- Haikus -- Long Black Song -- Fire and Cloud -- Lawd Today (excerpt) -- Native Son (excerpt) -- The Man Who Lived Underground -- The Outsider (excerpt) -- Savage Holiday (excerpt) -- Big Black Good Man -- The Long Dream (excerpt) -- Chronology -- Bibliography.</abstract>
+		<tableOfContents>Introduction.--Nonfiction: Black boy (excerpt) Joe Louis uncovers dynamite. Blueprint for Negro writing. Letters: Richard Wright/Burton Rascoe. Richard Wright/David L. Cohn. Richard Wright/Antonio Frasconi. Review: Wars I have seen by Gertrude Stein. There's always another cafe. Black power. Pagan Spain (excerpt) 12 million Black voices. Poetry: I have seen Black hands. Between the world and me. Red clay blues. The FB Eye Blues. Haikus.--Fiction: Long Black song. Fire and cloud. Lawd today [excerpt] Native son [excerpt] The man who lived underground. The outsider [excerpt] The long dream [excerpt] Savage holiday [excerpt] Big Black good man.</tableOfContents>
+		<note type="statement of responsibility">edited by Ellen Wright and Michel Fabre ; notes by Michel Fabre.</note>
+		<note type="bibliography">Bibliography: p. [877]-882.</note>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Wright, Richard</namePart>
+				<namePart type="date">1908-1960</namePart>
+			</name>
+			<genre>Literary collections</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>African Americans</topic>
+			<genre>Literary collections</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Language and literature -- American literature -- Individual authors -- 1900-1960</topic>
+		</subject>
+		<classification authority="lcc">PS3545.R815 A6 1978</classification>
+		<identifier type="isbn">0060147377 :</identifier>
+		<identifier type="lccn">77076690</identifier>
+		<location>
+			<shelfLocator>PS3545.R815 A6 1978</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PS3545.R815 A6 1978</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PS3545.R815 A6 1978</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>9</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">770712</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000846980</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>The </nonSort>
+			<title>construction of a European Community</title>
+			<subTitle>achievements and prospects for the future</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Maillet, Pierre</namePart>
+			<namePart type="date">1923-2002</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Praeger</publisher>
+			<dateIssued>1977</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xix, 185 p. ; 25 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Pierre Maillet ; translated by Marcus J. Hurt.</note>
+		<note>Translation of La construction européenne.</note>
+		<note type="bibliography">Bibliography: p. 184-185.</note>
+		<subject>
+			<geographicCode authority="marcgac">ew-----</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<name type="corporate">
+				<namePart>European Economic Community.</namePart>
+			</name>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>European Economic Community countries</geographic>
+			<topic>Foreign economic relations</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Social sciences -- Economic history and conditions -- By region or country -- Europe -- European economic integration -- European Economic Community -- General works</topic>
+		</subject>
+		<classification authority="lcc">HC241.2 .M23613 1977</classification>
+		<classification authority="ddc">341.24/2</classification>
+		<relatedItem>
+			<titleInfo>
+				<title>Praeger special studies in international economics and development</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Construction of a European Community</title>
+			</titleInfo>
+			<titleInfo type="uniform">
+				<title>Construction européenne. English</title>
+			</titleInfo>
+			<name>
+				<namePart>Maillet, Pierre, professeur de science économique.</namePart>
+			</name>
+			<originInfo>
+				<publisher>New York : Praeger, 1977</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)561233102</identifier>
+		</relatedItem>
+		<identifier type="isbn">0030223660</identifier>
+		<identifier type="lccn">77010605 //r852</identifier>
+		<location>
+			<shelfLocator>HC241.2 .M23613</shelfLocator>
+			<physicalLocation>BAK</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>137 27.9.9.6.5.5.9.1</shelfLocator>
+			<physicalLocation>LAW</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HC241.2 .M23613 1977</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">770727</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000847249</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Hermeticism and the scientific revolution</title>
+			<subTitle>papers read at a Clark Library seminar, March 9, 1974</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Westman, Robert S.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>McGuire, J. E.</namePart>
+		</name>
+		<name type="personal">
+			<namePart>McGuire, J. E.</namePart>
+			<role>
+				<roleTerm type="text">author.</roleTerm>
+			</role>
+		</name>
+		<name type="corporate">
+			<namePart>William Andrews Clark Memorial Library</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="marcgt">conference publication</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">cau</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Los Angeles</placeTerm>
+			</place>
+			<publisher>William Andrews Clark Memorial Library, University of California</publisher>
+			<dateIssued>1977</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>150 p. : ill. ; 23 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>Westman, R. S. Magical reform and astronomical reform: the Yates thesis reconsidered.--McGuire, J. E. Neoplatonism and active principles: Newton and the Corpus hermeticum.</tableOfContents>
+		<note type="statement of responsibility">by Robert S. Westman, J. E. McGuire.</note>
+		<note type="bibliography">Includes bibliographical references.</note>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Bruno, Giordano</namePart>
+				<namePart type="date">1548-1600</namePart>
+			</name>
+			<genre>Congresses</genre>
+		</subject>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart type="termsOfAddress">Sir</namePart>
+				<namePart>Newton, Isaac</namePart>
+				<namePart type="date">1642-1727</namePart>
+			</name>
+			<genre>Congresses</genre>
+		</subject>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Newton, Isaac</namePart>
+				<namePart type="date">1642-1727</namePart>
+			</name>
+			<genre>Congresses</genre>
+		</subject>
+		<subject authority="mesh">
+			<name type="personal">
+				<namePart type="termsOfAddress">Trismegistus</namePart>
+				<namePart>Hermes</namePart>
+			</name>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Magic</topic>
+			<topic>History</topic>
+			<genre>Congresses</genre>
+		</subject>
+		<subject authority="mesh">
+			<topic>Science</topic>
+			<topic>History</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Occult sciences -- Magic (White and Black). Shamanism. Hermetics. Necromancy -- History -- By period -- Modern</topic>
+		</subject>
+		<classification authority="lcc">BF1595 .W47 1977</classification>
+		<classification authority="nlm">CC7342</classification>
+		<classification authority="ddc">135.4</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Hermeticism and the scientific revolution</title>
+			</titleInfo>
+			<name>
+				<namePart>Westman, Robert S.</namePart>
+			</name>
+			<originInfo>
+				<publisher>Los Angeles : William Andrews Clark Memorial Library, University of California, 1977</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)647523890</identifier>
+		</relatedItem>
+		<identifier type="lccn">77151703</identifier>
+		<location>
+			<shelfLocator>BF1595 .W47 1977</shelfLocator>
+			<physicalLocation>BER</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BF1595 .W47</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BF1595 .W47</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BF1595 .W47</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>6</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">940923</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20080623161507.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000847406</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Treue zur Thora</title>
+			<subTitle>Beiträge zur Mitte des christlich-jüdischen Gesprächs : Festschrift für Günther Harder zum 75. Geburtstag</subTitle>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Harder, Günther</namePart>
+			<namePart type="date">1902-</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Berlin</placeTerm>
+			</place>
+			<publisher>Institut Kirche und Judentum</publisher>
+			<dateIssued>1977</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>223 p. : ill. ; 21 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">hrsg. von Peter von der Osten-Sacken.</note>
+		<note type="bibliography">Bibliography of G. Harder's works: p. 207-220.</note>
+		<note type="bibliography">Includes bibliographical references.</note>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Harder, Günther</namePart>
+				<namePart type="date">1902-</namePart>
+			</name>
+		</subject>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Harder, Günther</namePart>
+				<namePart type="date">1902-</namePart>
+			</name>
+			<genre>Bibliography</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Judaism</topic>
+			<topic>History</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Christianity and other religions</topic>
+			<topic>Judaism</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Judaism</topic>
+			<topic>Relations</topic>
+			<topic>Christianity</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Judaism -- Collected works -- Several authors -- Addresses, essays, lectures</topic>
+		</subject>
+		<relatedItem>
+			<titleInfo>
+				<title>Veröffentlichungen aus dem Institut Kirche und Judentum bei der Kirchlichen Hochschule Berlin ; 3</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Veröffentlichungen aus dem Institut Kirche und Judentum ; 3</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="lccn">77471898</identifier>
+		<location>
+			<shelfLocator>BM42 .T73</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BM42 .T73</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">770809</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150804135816.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000847527</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Zionismus</title>
+			<subTitle>Befreiungsbewegung des jüdischen Volkes</subTitle>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Berlin</placeTerm>
+			</place>
+			<publisher>Institut Kirche und Judentum</publisher>
+			<dateIssued>1977</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>79 p. ; 21 cm.</extent>
+		</physicalDescription>
+		<note type="bibliography">Bibliography: p. 76-77.</note>
+		<subject>
+			<geographicCode authority="marcgac">a-is---</geographicCode>
+			<geographicCode authority="marcgac">ma-----</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Zionism</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Jewish-Arab relations</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>World history and history of Europe, Asia, Africa, Australia, New Zealand, etc. -- History of Asia -- Israel (Palestine). The Jews -- History -- Political and diplomatic history. Foreign and general relations -- Jewish-Arab relations. Palestine problem. Arab-Israeli conflict -- To 1993</topic>
+		</subject>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Veröffentlichungen aus dem Institut Kirche und Judentum ; 5</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="lccn">77471866</identifier>
+		<location>
+			<shelfLocator>DS119.7 .Z55</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>v. 1020</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">770809</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150804135515.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000847529</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Revolution in miniature</title>
+			<subTitle>the history and impact of semiconductor electronics</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Braun, Ernest</namePart>
+			<namePart type="date">1925-</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Macdonald, Stuart</namePart>
+			<namePart type="date">1946-</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">enk</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Cambridge</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Cambridge University Press</publisher>
+			<dateIssued>1978</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>231 p. : ill. ; 24 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Ernest Braun and Stuart Macdonald.</note>
+		<note>Includes index.</note>
+		<note type="bibliography">Bibliography: p. [201]-224.</note>
+		<subject authority="lcsh">
+			<topic>Electronics</topic>
+			<topic>History</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Semiconductors</topic>
+			<topic>History</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Technology -- Electrical engineering. Electronics. Nuclear engineering -- Electronics -- History</topic>
+		</subject>
+		<identifier type="isbn">0521218152</identifier>
+		<identifier type="lccn">77082489</identifier>
+		<location>
+			<shelfLocator>TK7809 .B7</shelfLocator>
+			<physicalLocation>BAK</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>TK7809 .B7</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>TK7809 .B7</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">770920</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000847831</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Newton on matter and activity</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>McMullin, Ernan</namePart>
+			<namePart type="date">1924-</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">inu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Notre Dame</placeTerm>
+			</place>
+			<publisher>University of Notre Dame Press</publisher>
+			<dateIssued>c1978</dateIssued>
+			<dateIssued encoding="marc">1978</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>viii, 160 p. ; 21 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Ernan McMullin.</note>
+		<note>Includes index.</note>
+		<note type="bibliography">Bibliography: p. 155-158.</note>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Newton, Isaac</namePart>
+				<namePart type="date">1642-1727</namePart>
+			</name>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Matter</topic>
+			<topic>History</topic>
+			<topic>Sources</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Motion</topic>
+			<topic>History</topic>
+			<topic>Sources</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Science -- Physics -- Atomic physics. Constitution and properties of matter -- General works, treatises, and textbooks -- 1970-</topic>
+		</subject>
+		<identifier type="isbn">026801342X :</identifier>
+		<identifier type="lccn">77082480</identifier>
+		<location>
+			<shelfLocator>QC171.2 .M3</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">770928</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000847926</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Jock culture U.S.A</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Isaacs, Neil David</namePart>
+			<namePart type="date">1931-</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Norton</publisher>
+			<dateIssued>c1978</dateIssued>
+			<dateIssued encoding="marc">1978</dateIssued>
+			<edition>1st ed.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>221 p. ; 22 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>Prime time -- Of finer stuff -- The laurel and the ivy -- Ten cents a dance -- Withered garlands -- Action and the puritan ethic -- The contagion of competition -- The graves of academe -- Afterword.</tableOfContents>
+		<note type="statement of responsibility">Neil D. Isaacs.</note>
+		<note>Includes index.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Sports</topic>
+			<topic>Social aspects</topic>
+			<geographic>United States</geographic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Sports</topic>
+			<topic>Social aspects</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Sports</topic>
+			<topic>Philosophy</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Geography. Anthropology. Recreation -- Recreation. Leisure -- Sports -- Philosophy. Relation to other topics -- Relation to sociology</topic>
+		</subject>
+		<classification authority="lcc">GV706.5 .I82 1978</classification>
+		<identifier type="isbn">0393088073 :</identifier>
+		<identifier type="lccn">77026114</identifier>
+		<location>
+			<shelfLocator>GV706.5 .I82 1978</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>GV706.5 .I82 1978</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">771206</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000848764</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>The </nonSort>
+			<title>dream of a common language</title>
+			<subTitle>poems, 1974-1977</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Rich, Adrienne</namePart>
+			<namePart type="date">1929-2012</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Rich, Adrienne</namePart>
+			<namePart type="date">1929-2012</namePart>
+		</name>
+		<name type="personal">
+			<namePart>Rich, Adrienne</namePart>
+			<namePart type="date">1929-2012</namePart>
+			<role>
+				<roleTerm type="text">former owner.</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="rdacontent">text</genre>
+		<genre authority="fast">Poetry.</genre>
+		<genre authority="rbprov">Authors' copies (Provenance)</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Norton</publisher>
+			<dateIssued>©1978</dateIssued>
+			<dateIssued encoding="marc">1978</dateIssued>
+			<edition>1st ed.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>77 pages ; 22 cm</extent>
+			<form authority="rdamedia" type="media">unmediated</form>
+			<form authority="rdacarrier" type="carrier">volume</form>
+		</physicalDescription>
+		<tableOfContents>I. Power. -- II. Twenty-one love poems -- III. Not somewhere else, but here.</tableOfContents>
+		<note type="statement of responsibility">Adrienne Rich.</note>
+		<note>&quot;Twenty-one love poems&quot;: pages 25-36.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Women</topic>
+			<genre>Poetry</genre>
+		</subject>
+		<subject authority="fast">
+			<topic>Women</topic>
+		</subject>
+		<subject>
+			<hierarchicalGeographic>
+				<country>United States</country>
+				<state>New York</state>
+				<city>New York</city>
+			</hierarchicalGeographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Language and literature -- American literature -- Individual authors -- 1900-1960</topic>
+		</subject>
+		<classification authority="lcc">PS3535.I233 D7 1978</classification>
+		<classification authority="ddc">811/.5/4</classification>
+		<classification authority="bcl">18.06</classification>
+		<classification authority="rvk">HU 7291</classification>
+		<classification authority="rvk">HU 7293</classification>
+		<classification authority="rvk">HU 9800</classification>
+		<classification authority="bcl">17.97</classification>
+		<relatedItem type="constituent">
+			<titleInfo>
+				<title>Twenty-one love poems</title>
+			</titleInfo>
+			<name type="personal">
+				<namePart>Rich, Adrienne,</namePart>
+				<namePart type="date">1929-2012</namePart>
+			</name>
+		</relatedItem>
+		<identifier type="isbn">0393045021</identifier>
+		<identifier type="isbn">9780393045024</identifier>
+		<identifier type="isbn">0393045102</identifier>
+		<identifier type="isbn">9780393045109</identifier>
+		<identifier type="isbn">0393310337</identifier>
+		<identifier type="isbn">9780393310337</identifier>
+		<identifier type="isbn">9780393346008</identifier>
+		<identifier type="isbn">0393346005</identifier>
+		<identifier type="lccn">77028156</identifier>
+		<location>
+			<shelfLocator>811.54 R49d</shelfLocator>
+			<physicalLocation>SCH</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>*2001-549</shelfLocator>
+			<physicalLocation>HOU</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>*2000-652</shelfLocator>
+			<physicalLocation>HOU</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PS3535.I233 D7 1978</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>811.54 R49d</shelfLocator>
+			<physicalLocation>SCH</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PS3535.I233 D7 1978</shelfLocator>
+			<physicalLocation>POE</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>11</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">771221</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150803104445.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000849240</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+			<languageOfCataloging>
+				<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+			</languageOfCataloging>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Untersuchungen zur Redaktionsgeschichte des Pentateuch</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Weimar, Peter.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Berlin</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>de Gruyter</publisher>
+			<dateIssued>1977</dateIssued>
+			<edition>1. Aufl.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>x, 183 p. ; 24 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Peter Weimar.</note>
+		<note>Includes index.</note>
+		<note type="thesis">Habilitationsschrift--Würzburg, 1975.</note>
+		<note type="bibliography">Bibliography: p. [173]-180.</note>
+		<subject authority="lcsh">
+			<titleInfo>
+				<title>Bible</title>
+				<partName>Genesis</partName>
+			</titleInfo>
+			<topic>Criticism, interpretation, etc</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- The Bible -- General -- Works about the Bible -- Periodicals. Serials</topic>
+		</subject>
+		<relatedItem>
+			<titleInfo>
+				<title>Beiheft zur Zeitschrift für die alttestamentliche Wissenschaft ; 146</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Beihefte zur Zeitschrift für die alttestamentliche Wissenschaft ; 146</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="isbn">3110067315</identifier>
+		<identifier type="lccn">77568983</identifier>
+		<location>
+			<shelfLocator>AHP36.3.5 vol.146</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BS410 .Z5 v. 146</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">780213</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150804124156.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000849802</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>The </nonSort>
+			<title>adventure of the stalwart companions</title>
+			<subTitle>heretofore unpublished letters and papers concerning a singular collaboration between Theodore Roosevelt and Sherlock Holmes</subTitle>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Heretofore unpublished letters and papers concerning a singular collaboration between Theodore Roosevelt and Sherlock Holmes</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Jeffers, H. Paul (Harry Paul)</namePart>
+			<namePart type="date">1934-</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="gsafd">Mystery fiction.</genre>
+		<genre authority="gsafd">Historical fiction.</genre>
+		<genre authority="gsafd">Epistolary fiction.</genre>
+		<genre authority="fast">Fiction.</genre>
+		<genre authority="gsafd">Detective and mystery stories.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Harper &amp; Row</publisher>
+			<dateIssued>c1978</dateIssued>
+			<dateIssued encoding="marc">1978</dateIssued>
+			<edition>1st ed.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>190 p. ; 21 cm.</extent>
+		</physicalDescription>
+		<abstract type="Summary">A young Sherlock before the days of Watson in which he becomes friends with Teddy Roosevelt in his younger days. Holmes assists the NY police department with a murder that eventually turns out to be an assasination plot against the President.</abstract>
+		<note type="statement of responsibility">edited and annotated by H. Paul Jeffers.</note>
+		<note type="bibliography">Includes bibliographical references.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Roosevelt, Theodore</namePart>
+				<namePart type="date">1858-1919</namePart>
+			</name>
+			<genre>Fiction</genre>
+		</subject>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Holmes, Sherlock</namePart>
+			</name>
+			<genre>Fiction</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Presidents</topic>
+			<geographic>United States</geographic>
+			<genre>Fiction</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Private investigators</topic>
+			<genre>Fiction</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Attempted assassination</topic>
+			<genre>Fiction</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Language and literature -- American literature -- Individual authors -- 1961-2000</topic>
+		</subject>
+		<classification authority="lcc">PZ4.J4527 Ad 1978</classification>
+		<classification authority="lcc">PS3560.E36</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Adventure of the stalwart companions</title>
+			</titleInfo>
+			<name>
+				<namePart>Jeffers, H. Paul (Harry Paul), 1934-</namePart>
+			</name>
+			<originInfo>
+				<publisher>New York : Harper &amp; Row, ©1978</publisher>
+				<edition>1st ed.</edition>
+			</originInfo>
+			<identifier type="local">(OCoLC)644288414</identifier>
+		</relatedItem>
+		<identifier type="isbn">006012248X :</identifier>
+		<identifier type="lccn">78002060</identifier>
+		<location>
+			<shelfLocator>Roosevelt 682.J35a</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PS3560.E36 A3 x</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">780426</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000850551</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Isaac Newton's papers &amp; letters on natural philosophy and related documents</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Papers &amp; letters on natural philosophy and related documents</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Newton, Isaac</namePart>
+			<namePart type="date">1642-1727</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Cohen, I. Bernard</namePart>
+			<namePart type="date">1914-2003</namePart>
+		</name>
+		<name type="personal">
+			<namePart>Schofield, Robert E.</namePart>
+		</name>
+		<name type="personal">
+			<namePart>Hall, Marie Boas</namePart>
+			<namePart type="date">1919-</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">mau</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Cambridge, Mass</placeTerm>
+			</place>
+			<publisher>Harvard University Press</publisher>
+			<dateIssued>1978</dateIssued>
+			<edition>2d ed.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xviii, 540 p. : ill. ; 25 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">edited, with a general introd., by I. Bernard Cohen, assisted by Robert E. Schofield ; with explanatory prefaces by Marie Boas ... [et al.].</note>
+		<note>Includes index.</note>
+		<note type="bibliography">Bibliography: p. 492-504.</note>
+		<subject authority="lcsh">
+			<topic>Physics</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Science -- Physics -- Collected works (nonserial)</topic>
+		</subject>
+		<identifier type="isbn">0674468538</identifier>
+		<identifier type="lccn">77072764</identifier>
+		<location>
+			<shelfLocator>QC3 .N52 1978</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QC3 .N52 1978</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HU137.4659</shelfLocator>
+			<physicalLocation>HUA</physicalLocation>
+		</location>
+		<location>
+			<physicalLocation>HSL</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>Ch M 1629.2</shelfLocator>
+			<physicalLocation>CHI</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">780517</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000850686</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Understanding oscilloscopes and display waveforms</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Sessions, Ken W.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Fischer, Walter A.</namePart>
+			<namePart type="date">1939-</namePart>
+			<role>
+				<roleTerm type="text">joint author.</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Fischer, Walter A.</namePart>
+			<namePart type="date">1939-</namePart>
+			<role>
+				<roleTerm type="text">author.</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Wiley</publisher>
+			<dateIssued>c1978</dateIssued>
+			<dateIssued encoding="marc">1978</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xiii, 327 p. : ill. ; 24 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Kendall Webster Sessions, Walter A. Fischer.</note>
+		<note>Includes index.</note>
+		<subject authority="lcsh">
+			<topic>Oscilloscopes</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Technology -- Electrical engineering. Electronics. Nuclear engineering -- Electronics -- Electronic measurements -- Electronic instruments -- Cathode ray oscillographs. Oscilloscopes</topic>
+		</subject>
+		<classification authority="lcc">TK7878.7 .S45</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Understanding oscilloscopes and display waveforms</title>
+			</titleInfo>
+			<name>
+				<namePart>Sessions, Ken W.</namePart>
+			</name>
+			<originInfo>
+				<publisher>New York : Wiley, ©1978</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)644371638</identifier>
+		</relatedItem>
+		<identifier type="isbn">0471026255</identifier>
+		<identifier type="lccn">78017493</identifier>
+		<location>
+			<shelfLocator>TK7878.7 .S45</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">780510</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000850714</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>The </nonSort>
+			<title>Study of liturgy</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Jones, Cheslyn.</namePart>
+		</name>
+		<name type="personal">
+			<namePart>Wainwright, Geoffrey</namePart>
+			<namePart type="date">1939-</namePart>
+		</name>
+		<name type="personal">
+			<namePart>Yarnold, Edward.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Oxford University Press</publisher>
+			<dateIssued>1978</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xxvii, 547 p. ; 24 cm.</extent>
+		</physicalDescription>
+		<abstract type="Summary">We have limited ourselves to Initiation, Eucharist, Ordination, Office, and Calendar. Each of these subjects has been the responsibility of its own panel of authors, and they are presented historically under five main divisions: Jewish and New Testament, patristic, medieval, Reformation and counter-Reformation, and contemporary (i.e., the reforms of the last twenty years). The historical account of these rites is preceded by a general introduction, in the form of a series of notes giving background information on subjects, like Hippolytus or Cranmer, which recur in the study of all the rites. But we do not wish to present liturgy in isolation. We are anxious to make clear its theological foundations and connections; the theological introduction is an essential part of our intention. We are also anxious to show that the study of liturgy, even in its historical aspects, is not irrelevant to the present concerns of Christians, pastoral as well as liturgical; and so the concluding pastoral orientation is for us as important as the theological introduction. It was also our ambition, in each phase of historical exposition, to show the connection between liturgy and other aspects of Christian activity and interest. - Preface.</abstract>
+		<tableOfContents>A theology of worship / J.D. Crichton -- The periods of liturgical history / Geoffrey Wainwright -- The Jewish background to Christian worship / R.T. Beckwith -- The letter of Pliny : Gnosticism : The mysteries / D.H. Tripp -- The Didache / Frank Hawkins -- The Apostolic tradition / the editors -- Church orders : The Euchologium of Sarapion : Baptismal catechesis : Egeria's Pilgrimage / E.J. Yarnold -- Liturgical books / D.M. Hope -- Thomas Cranmer and the prayer book : The prayer book after Cranmer / R.T. Beckwith -- From New Testament times until St Cyprian / K.W. Noakes -- The fourth and fifth centuries / E.J. Yarnold -- The west from about A.D. 500 to the reformation / J.D.C. Fisher and E.J. Yarnold -- The Byzantine rite / W. Jardine Grisbrooke -- Lutheran, Anglican, and Reformed rites / J.D.C. Fisher -- The radical reformation / D.H. Tripp -- The modern period / Peter Hinchliff -- The New Testament /</tableOfContents>
+		<tableOfContents>C.P.M. Jones -- From the Apostolic fathers to Irenaeus / K.W. Noakes -- The Apostolic tradition of Hippolytus : The anaphora of Addai and Mari : The liturgy of the word in the early church / Peter G. Cobb -- The liturgy of the faithful in the fourth and early fifth centuries / E.J. Yarnold -- The patristic theology of the Eucharist / R.J. Halliburton -- The Byzantine liturgy from the Apostolic constitutions to the present day / Hugh Wybrew -- The medieval western rites / D.M. Hope -- From Trent to Vatican II / Clifford Howell -- Protestantism and the Eucharist / D.H. Tripp -- The Anglican Eucharist : from the Reformation to the Restoration / R.T. Beckwith -- The Eucharist in Anglicanism after 1662 / Alan Dunstan -- Methodism / D.H. Tripp -- Recent Eucharistic revision / Geoffrey Wainwright -- Orders and ordination in the New Testament : The tradition of ordination in the second century to the time of Hippolytus / Frank Hawkins --</tableOfContents>
+		<tableOfContents>Theology and rite, A.D. 200-400 / J.H. Crehan -- The early history of the Roman rites of ordination / Frank Hawkins -- Eastern rites of ordination / R.J. Halliburton -- Medieval ordinations / J.H. Crehan -- Reformation churches : Recent developments / Paul F. Bradshaw -- The first three centuries / G.J. Cuming -- The formative period- cathedral and monastic offices / W. Jardine Grisbrooke -- The office in the west : the early middle ages : The office in the west : the latter middle ages : The office in the west : The Roman rite from the sixteenth century / J.D. Crichton -- The office in the church of England / G.J. Cuming -- The office in the Lutheran, Reformed, and Free churches / D.H. Tripp -- The history of the Christian year / Peter G. Cobb -- The sanctoral / Kevin Donovan -- Ceremonial / Hugh Wybrew -- Music and singing in the liturgy / J. Gelineau -- Hymnody in Christian worship / Alan Dunstan --</tableOfContents>
+		<tableOfContents>The language of worship / Geoffrey Wainwright -- The architectural setting of the liturgy / Peter G. Cobb -- Vestments / W. Jardine Grisbrooke -- The understanding of liturgy in the light of its history / Geoffrey Wainwright -- Worship and the pastoral office / D.H. Tripp.</tableOfContents>
+		<note type="statement of responsibility">edited by Cheslyn Jones, Geoffrey Wainwright, Edward Yarnold.</note>
+		<note type="bibliography">Includes bibliographies and indexes.</note>
+		<subject authority="lcsh">
+			<topic>Liturgics</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Practical theology -- Worship (Public and private) -- Liturgy and ritual -- General works -- 1951-2000</topic>
+		</subject>
+		<classification authority="lcc">BV176 .S76 1978X</classification>
+		<identifier type="isbn">0195200756 :</identifier>
+		<identifier type="isbn">0195200764 (pbk.)</identifier>
+		<identifier type="lccn">78018464</identifier>
+		<location>
+			<shelfLocator>BV176 .S76 1978X</shelfLocator>
+			<physicalLocation>DDO</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BV176 .S76 1978</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">780606</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20050319122517.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000851054</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Plow women rather than reapers</title>
+			<subTitle>an intellectual history of feminism in the United States</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Schramm, Sarah Slavin</namePart>
+			<namePart type="date">1942-</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="fast">History.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nju</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Metuchen, N.J</placeTerm>
+			</place>
+			<publisher>Scarecrow Press</publisher>
+			<dateIssued>1979</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>ix, 441 p. : ill. ; 23 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>Acknowledgments -- Preface -- Introduction. Feminism: its historical intellectual framework -- Part I. Monumental issues. The true home: feminism and family - The golden fleece: feminism and education -- Part II. Ideological undercurrents. The path of duty: feminism and liberty - And ar'n't I a woman? Feminism and equality -- Part III. Women's and men's roles. The broader protest: feminism and complementary roles for women and men - A row to hoe: feminism and congruent roles for women and men -- Conclusion. You will look back at us with astonishment! -- Biographical listing -- Annotated bibliography -- Index.</tableOfContents>
+		<note type="statement of responsibility">by Sarah Slavin Schramm.</note>
+		<note>Includes index.</note>
+		<note type="bibliography">Bibliography: p. [367]-413.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Feminism</topic>
+			<geographic>United States</geographic>
+			<topic>History</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Feminists</topic>
+			<geographic>United States</geographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Social sciences -- The Family. Marriage. Woman -- Women. Feminism -- By region or country -- America -- United States -- Reform literature, &quot;Emancipation,&quot; etc. -- 1860/70-</topic>
+		</subject>
+		<classification authority="lcc">HQ1426 .S56 1979</classification>
+		<classification authority="ddc">301.41/2/0973</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Plow women rather than reapers</title>
+			</titleInfo>
+			<name>
+				<namePart>Slavin, Sarah.</namePart>
+			</name>
+			<originInfo>
+				<publisher>Metuchen, N.J. : Scarecrow Press, 1979</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)651825735</identifier>
+		</relatedItem>
+		<identifier type="isbn">0810811839</identifier>
+		<identifier type="lccn">78010907 //r872</identifier>
+		<location>
+			<shelfLocator>301.4120973 S37p</shelfLocator>
+			<physicalLocation>SCH</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HQ1426 .S34</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>HQ1426 .S34</shelfLocator>
+			<physicalLocation>GUT</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">780922</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000852741</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Saul Bellow</title>
+			<subTitle>in defense of man</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Clayton, John Jacob.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="fast">Criticism, interpretation, etc.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">inu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Bloomington</placeTerm>
+			</place>
+			<publisher>Indiana University Press</publisher>
+			<dateIssued>c1979</dateIssued>
+			<dateIssued encoding="marc">1979</dateIssued>
+			<edition>2d ed.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>332 p. ; 22 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>Introduction. In desperate affirmation -- Bellow's cultural context -- The psychic pattern of Bellow's fiction. Alienation and masochism -- Construction of self and world -- The darkness -- Transformation -- Studies of individual works. The Victim -- Henderson the Rain King -- Herzog -- The politics of Oedipus: Mr. Sammler's Planet, To Jerusalem and Back -- Humboldt's Gift: transcendence and the flight from death -- Saul Bellow as a novelist. The unity and development of Bellow's fiction.</tableOfContents>
+		<note type="statement of responsibility">John Jacob Clayton.</note>
+		<note>Includes index.</note>
+		<note type="bibliography">Bibliography: p. [325]-328.</note>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Bellow, Saul</namePart>
+			</name>
+			<topic>Criticism and interpretation</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Human beings in literature</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Philosophy (General) -- Modern (1450/1600- ) -- By period</topic>
+		</subject>
+		<classification authority="lcc">PS3503.E4488 Z6 1979</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Saul Bellow</title>
+			</titleInfo>
+			<name>
+				<namePart>Clayton, John Jacob.</namePart>
+			</name>
+			<originInfo>
+				<publisher>Bloomington : Indiana University Press, ©1979</publisher>
+				<edition>2d ed.</edition>
+			</originInfo>
+			<identifier type="local">(OCoLC)644586658</identifier>
+		</relatedItem>
+		<identifier type="isbn">0253149959</identifier>
+		<identifier type="lccn">78019554</identifier>
+		<location>
+			<shelfLocator>PS3503.E4488 Z6 1979</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PS3503.E4488 Z6 1979</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>4</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">781024</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000852766</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Energy II</title>
+			<subTitle>use conservation and supply</subTitle>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Abelson, Philip Hauge.</namePart>
+		</name>
+		<name type="personal">
+			<namePart>Hammond, Allen L.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">dcu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Washington</placeTerm>
+			</place>
+			<publisher>American Association for the Advancement of Science</publisher>
+			<dateIssued>c1978</dateIssued>
+			<dateIssued encoding="marc">1978</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>201 p. : ill. ; 29 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>Introduction : An interim look at energy : signs of progress / Allen L. Hammond -- I. Energy use in transition -- Process innovation and changes in industrial energy use / C.A. Berg -- Industrial energy in transition : a petrochemical perspective / R.S. Wishart -- The hobbling of coal : policy and regulatory uncertainties / R.L. Gordon -- Energy options and strategies for Western Europe / W. Hafele and W. Sassin -- Energy and resources / B. Sorensen -- Brazil : energy options and current outlook / J. Goldenberg -- Solar energy for village development / N.L. Brown and J.W. Howe -- Energy and water / J. Harte and M. El-Gasseir -- Predicting future atmospheric carbon dioxide levels / U. Seigenthaler and H. Oeschger -- II. Conservation and public policy -- U.S. energy demand : some low energy futures / CONAES Demand and Conservation Panel -- Efficient energy use and well-being : the Swedish example / L. Schipper and A.J. Lichtenberg --</tableOfContents>
+		<tableOfContents>Energy conservation in new housing design / J.E. Snell, P.R. Achenbach, S.R. Petersen -- Transportation energy conservation policies / E. Hirst -- Energy conservation and the consumer / B. Hannon -- Effects of federal residential energy conservation programs / E. Hirst and J. Carney -- III. Future supply in evolution -- Ocean boundaries and petroleum resources / H.D. Hedberg -- Liquid fuels from coal : from R &amp; D to an industry / L.E. Swabb, Jr. -- Nuclear waste disposal : two social criteria / G.I. Rochlin -- The CANDU Reactor System : an appropriate technology / J.A.L. Robertson -- Solar heating and cooling / J.A. Duffie and W.A. Beckman -- Photovoltaic power systems : a tour through the alternatives / H. Kelly -- Solar biomass energy : an overview of U.S. potential / C.C. Burwell -- Fuels from biomassw : integration with food and materials systems / E.S. Lipinsky --</tableOfContents>
+		<tableOfContents>Solar energy and electric utilities : should they be interfaced? / J.G. Asbury and R.O. Mueller -- The Tokamak : model T fusion reactor / D. Steiner and J.F. Clarke -- Engineering limitations of fusion power plants / W.E. Parkins.</tableOfContents>
+		<note type="statement of responsibility">edited by Philip H. Abelson, Allen L. Hammond.</note>
+		<note type="bibliography">Includes bibliographical references and index.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Power resources</topic>
+			<geographic>United States</geographic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Energy policy</topic>
+			<geographic>United States</geographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Social sciences -- Industries. Land use. Labor -- Special industries and trades -- Energy industries. Energy policy. Fuel trade -- General works</topic>
+		</subject>
+		<classification authority="lcc">Q181.A1 A68 no. 78-9</classification>
+		<classification authority="lcc">TJ163.25.U6</classification>
+		<classification authority="lcc">HD9502.U52 A3 1978</classification>
+		<relatedItem>
+			<titleInfo>
+				<title>Special Science compendium ; no. 6</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>AAAS publication ; 78-9</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="isbn">0871683008.</identifier>
+		<identifier type="lccn">78059190</identifier>
+		<location>
+			<shelfLocator>TJ163.25.U6 E56</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">781204</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000853162</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Energy from heaven and earth</title>
+			<subTitle>in which a story is told about energy from its origins 15,000,000,000 years ago to its present adolescence--turbulent, hopeful, beset by problems, and in need of help</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Teller, Edward</namePart>
+			<namePart type="date">1908-</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">cau</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">San Francisco</placeTerm>
+			</place>
+			<publisher>W. H. Freeman</publisher>
+			<dateIssued>c1979</dateIssued>
+			<dateIssued encoding="marc">1979</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xiv, 322 p. : ill. ; 25 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Edward Teller.</note>
+		<note>Based on lectures given by the author during 1975 for the Harvey Prize Lectures at Technion, Haifa, Israel; the Distinguished Visiting Lectures of the Faculty of Natural Sciences and Mathematics, State University of New York at Buffalo; and a lecture delivered at Acadia University, Wolfville, Nova Scotia.</note>
+		<note type="bibliography">Includes bibliographical references and index.</note>
+		<subject authority="lcsh">
+			<topic>Power resources</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Technology -- Mechanical engineering and machinery -- Power resources -- General works</topic>
+		</subject>
+		<identifier type="isbn">0716710633.</identifier>
+		<identifier type="lccn">79004049</identifier>
+		<location>
+			<shelfLocator>TJ163.2 .T4</shelfLocator>
+			<physicalLocation>BAK</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>TJ163.2 .T4</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>TJ163.2 .T4</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">790205</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000853941</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Solidarität mit den Leidenden im Judentum</title>
+		</titleInfo>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Berlin</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>de Gruyter</publisher>
+			<dateIssued>1978</dateIssued>
+			<edition>1. Aufl.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">ger</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xxvi, 296 p. ; 24 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">von Rachel Rosenzweig.</note>
+		<note type="thesis">A translation of the author's thesis, Hebrew University, Jerusalem, 1971.</note>
+		<note type="bibliography">Bibliography: p. [280]-286.</note>
+		<subject authority="lcsh">
+			<topic>Suffering (Jewish theology)</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Suffering</topic>
+			<topic>Biblical teaching</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Solidarity</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Judaism -- Dogmatic Judaism</topic>
+		</subject>
+		<relatedItem>
+			<titleInfo>
+				<title>Studia Judaica ; Bd. 10</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Studia Judaica (Walter de Gruyter &amp; Co.) ; Bd. 10</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="isbn">3110059398</identifier>
+		<identifier type="lccn">79344694</identifier>
+		<location>
+			<shelfLocator>BM645.S9 R6715</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BM645.S9 R6715</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">790416</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150804123413.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000854500</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Energy, from opulence to sufficiency</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Krenz, Jerrold H.</namePart>
+			<namePart type="date">1934-</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Praeger</publisher>
+			<dateIssued>1980</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>viii, 264 p. : ill. ; 24 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Jerrold H. Krenz.</note>
+		<note>&quot;A Hemisphere Publishing Corporation book.&quot;</note>
+		<note>&quot;This book is an outgrowth of [the author's] earlier technical book, Energy: conversion and utilization.&quot;</note>
+		<note type="bibliography">Includes bibliographical references and index.</note>
+		<subject>
+			<geographicCode authority="marcgac">n-us---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Power resources</topic>
+			<geographic>United States</geographic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Energy conservation</topic>
+			<geographic>United States</geographic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Technology -- Mechanical engineering and machinery -- Power resources</topic>
+		</subject>
+		<identifier type="lccn">79015059</identifier>
+		<location>
+			<shelfLocator>TJ163.25.U6 K73</shelfLocator>
+			<physicalLocation>BAK</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>TJ163.25.U6 K73</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">790511</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000854760</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Reunion ; Dark pony</title>
+			<subTitle>two plays</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Mamet, David.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Mamet, David.</namePart>
+		</name>
+		<name type="personal">
+			<namePart>Mamet, David.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="lcgft">Drama.</genre>
+		<genre authority="fast">Drama.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Grove Press : distributed by Random House</publisher>
+			<dateIssued>1979</dateIssued>
+			<edition>1st Evergreen ed.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>53 p. ; 21 cm.</extent>
+		</physicalDescription>
+		<abstract type="Summary">Reunion is the awkward, tender meeting between a father and daughter after nearly twenty years separation. Dark Pony is the telling of a mythical story by a father to his young daughter as they drive home in the evening.</abstract>
+		<tableOfContents>Reunion -- Dark pony.</tableOfContents>
+		<note type="statement of responsibility">by David Mamet.</note>
+		<subject authority="lcsh">
+			<topic>American drama</topic>
+			<temporal>20th century</temporal>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Fathers and daughters</topic>
+			<genre>Drama</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Drama</topic>
+			<temporal>20th century</temporal>
+		</subject>
+		<subject authority="LCC">
+			<topic>Language and literature -- American literature -- Individual authors -- 1961-2000</topic>
+		</subject>
+		<classification authority="lcc">PS3563.A4345 R4</classification>
+		<relatedItem>
+			<titleInfo>
+				<title>Evergreen book ; E-728</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="constituent">
+			<titleInfo>
+				<title>Dark pony. 1979</title>
+			</titleInfo>
+			<name type="personal">
+				<namePart>Mamet, David.</namePart>
+			</name>
+		</relatedItem>
+		<relatedItem type="constituent">
+			<titleInfo>
+				<title>Dark pony</title>
+			</titleInfo>
+			<name type="personal">
+				<namePart>Mamet, David.</namePart>
+			</name>
+		</relatedItem>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Reunion ; Dark pony</title>
+			</titleInfo>
+			<name>
+				<namePart>Mamet, David.</namePart>
+			</name>
+			<originInfo>
+				<publisher>New York : Grove Press : Distributed by Random House, 1979</publisher>
+				<edition>1st Evergreen ed.</edition>
+			</originInfo>
+			<identifier type="local">(OCoLC)643676011</identifier>
+		</relatedItem>
+		<identifier type="isbn">0394174593 (pbk.)</identifier>
+		<identifier type="isbn">0802142583 (Grove Press)</identifier>
+		<identifier type="lccn">79002319</identifier>
+		<location>
+			<shelfLocator>PS3563.A4345 R4</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>PS3563.A4345 R4</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>2</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">790604</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000855017</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Koheleth</title>
+			<subTitle>his language and thought</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Whitley, Charles Francis.</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="fast">Commentaries.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">gw</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Berlin</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>de Gruyter</publisher>
+			<dateIssued>1979</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>viii, 199 p. ; 24 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>An examination of the language of Koheleth -- Reconstruction -- The thought of Koheleth -- Reconstruction.</tableOfContents>
+		<note type="statement of responsibility">Charles F. Whitley.</note>
+		<note>Includes index.</note>
+		<note type="bibliography">Bibliography: p. [185]-194.</note>
+		<subject authority="lcsh">
+			<titleInfo>
+				<title>Bible</title>
+				<partName>Ecclesiastes</partName>
+			</titleInfo>
+			<topic>Commentaries</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- The Bible -- General -- Works about the Bible -- Periodicals. Serials</topic>
+		</subject>
+		<classification authority="lcc">BS410 .Z5 vol. 148</classification>
+		<classification authority="lcc">BS1475.3</classification>
+		<relatedItem>
+			<titleInfo>
+				<title>Beiheft zur Zeitschrift für die alttestamentliche Wissenschaft ; 148</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Beihefte zur Zeitschrift für die alttestamentliche Wissenschaft ; 148</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="isbn">3110076020</identifier>
+		<identifier type="lccn">79318811</identifier>
+		<location>
+			<shelfLocator>AHP36.3.5 vol.148</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>BS410 .Z5 v. 148</shelfLocator>
+			<physicalLocation>DIV</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">791116</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150804123356.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000855493</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Wayfarers</title>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Hamsun, Knut</namePart>
+			<namePart type="date">1859-1952</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>McFarlane, James Walter</namePart>
+			<role>
+				<roleTerm type="text">translator.</roleTerm>
+			</role>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="fast">Fiction.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Farrar, Straus Giroux</publisher>
+			<dateIssued>1980</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">nor</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>459 p. ; 20 cm.</extent>
+		</physicalDescription>
+		<abstract type="Summary">Exposes life in a poor Norwegian fishing village from the Old days, in a realistic but also satirical way.</abstract>
+		<note type="statement of responsibility">Knut Hamsun ; translated from the Norwegian by James McFarlane.</note>
+		<note>Translation of Landstrykere.</note>
+		<subject>
+			<geographicCode authority="marcgac">e-no---</geographicCode>
+		</subject>
+		<subject authority="lcsh">
+			<geographic>Norway</geographic>
+			<genre>Fiction</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Language and literature -- Norwegian literature -- Individual authors or works -- 1900-1960</topic>
+		</subject>
+		<classification authority="lcc">PT8950.H3 L313 1980</classification>
+		<classification authority="lcc">PZ3.H1903 Way 1980</classification>
+		<identifier type="isbn">0374286728 :</identifier>
+		<identifier type="lccn">79027034</identifier>
+		<location>
+			<shelfLocator>PT8950.H3 L313 x, 1980</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">791219</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000856620</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<nonSort>The </nonSort>
+			<title>double helix</title>
+			<subTitle>a personal account of the discovery of the structure of DNA</subTitle>
+		</titleInfo>
+		<name nameTitleGroup="1" type="personal" usage="primary">
+			<namePart>Watson, James D.</namePart>
+			<namePart type="date">1928-</namePart>
+			<role>
+				<roleTerm type="text">creator</roleTerm>
+			</role>
+		</name>
+		<name type="personal">
+			<namePart>Stent, Gunther S. (Gunther Siegmund)</namePart>
+			<namePart type="date">1924-2008</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="fast">History.</genre>
+		<genre authority="fast">Reviews.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>Norton</publisher>
+			<dateIssued>c1980</dateIssued>
+			<dateIssued encoding="marc">1980</dateIssued>
+			<edition>1st ed.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>xxv, 298 p. : ill. ; 21 cm.</extent>
+		</physicalDescription>
+		<abstract type="Summary">A critical edition of James D. Watson's account of he and Francis Crick's 1953 discovery of the DNA double helix, including reviews by Gunther Stent and other scientists and scholars.</abstract>
+		<tableOfContents>Introduction: The DNA double helix and the rise of molecular biology / Gunther S. Stent. The author and publication of The double helix / Gunther S. Stent. A book that couldn't go to Harvard (1968) / Walter Sullivan -- The text of The double helix (1968) -- Three other perspectives: The double helix : a personal view (1974) / Francis Crick. Molecular basis of biological specificity (1974) / Linus Pauling. Rosalind Franklin and the discovery of the structure of DNA (1968) / Aaron Klug -- </tableOfContents>
+		<tableOfContents>The reviews: A review of the reviews / Gunther S. Stent. The human factor in a science first (1968) / Philip Morrison. Nots of a not-Watson (1968) / F.X.S. &quot;Honest Jim&quot; Watson's big thriller about DNA (1968) / Richard C. Lewontin. The scientist tells (1968) / Mary Ellmann. The double helix (1968) / Robert L. Sinsheimer. Heredity transactions (1968) / John Lear. Two cultures no more (1968) / Alex Comfort. Honest Jum and the tinker toy model (1968) / Jacob Bronowski. Riding high on a spiral (1968) / Conrad H. Waddington. Three letters to the editor of Science (1969) / Max F, Perutz, M.H.F. Wilkins, and James D. WatsonMaking it scientifically (1968) / Robert K. Merton. Lucky Jim (1968) / Peter B. Medawar. Truth, truth, what is truth (about how the structure of DNA was discovered)? (1968) / André Lwoff -- </tableOfContents>
+		<tableOfContents>Original papers: A structure for deoxyribose nucleic acis (Nature, April 25, 1953) / J.D. Watson and F.H.C. Crick. Genetical implications of the structure of doxyribonucleic acid (Nature, May 30, 1953) / J.D. Watson and F.H.C. Crick. Molecular strcuture of deoxypentose nucleic acids (Nature, April 25, 1953) / J.H.F. Wilkins, A.R. Stokes and H.R. Wilson. Molecular configuration in sodium thymonucleate (Nature, April 25, 1953) / R.E. Franklin and R.G. Gosling. The structure of DNA (Cold Spring Harbor Symposia on Quantitative Biology, 1953 / J.D. Watson and F.H.C. Crick. The complementary structure of deoxyribonucleic acid (Proceedings of the Royal Society, 1954) / F.H.C. Crick and J.D. Watson.</tableOfContents>
+		<note type="statement of responsibility">James D. Watson ; edited by Gunther S. Stent.</note>
+		<note type="bibliography">Includes bibliographies and index.</note>
+		<subject authority="lcsh">
+			<name type="personal">
+				<namePart>Watson, James D</namePart>
+				<namePart type="date">1928-</namePart>
+			</name>
+			<titleInfo>
+				<title>Double helix</title>
+			</titleInfo>
+			<topic>Reviews</topic>
+		</subject>
+		<subject authority="mesh">
+			<name type="personal">
+				<namePart>Watson, James D</namePart>
+				<namePart type="date">1928-</namePart>
+			</name>
+			<titleInfo>
+				<title>Double helix</title>
+			</titleInfo>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Genetic code</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>DNA</topic>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Molecular biology</topic>
+			<topic>History</topic>
+		</subject>
+		<subject authority="mesh">
+			<topic>DNA</topic>
+			<genre>Personal Narratives</genre>
+		</subject>
+		<subject authority="mesh">
+			<topic>Genetic Code</topic>
+			<genre>Personal Narratives</genre>
+		</subject>
+		<subject authority="mesh">
+			<topic>Molecular Biology</topic>
+			<topic>History</topic>
+			<genre>Personal Narratives</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Science -- Biology (General) -- Genetics -- Recombination mechanisms -- Genetic regulation. Gene expression -- Genetic code. Transcription</topic>
+		</subject>
+		<classification authority="lcc">QH450.2 .W37</classification>
+		<classification authority="nlm">QU 58 W339d 1980</classification>
+		<relatedItem>
+			<titleInfo>
+				<title>A Norton critical edition</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Norton critical edition</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="isbn">0393950751 (pbk.)</identifier>
+		<identifier type="isbn">039301245X</identifier>
+		<identifier type="lccn">80010770</identifier>
+		<location>
+			<shelfLocator>QH450.2 .W37</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QH450.2 .W37</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>QH450.2 .W37</shelfLocator>
+			<physicalLocation>LAM</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>52</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">800131</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20150225144951.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000856838</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>McGraw-Hill encyclopedia of energy</title>
+		</titleInfo>
+		<titleInfo type="alternative">
+			<title>Encyclopedia of energy</title>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Parker, Sybil P.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">globe</genre>
+		<genre authority="marcgt">bibliography</genre>
+		<genre authority="fast">Dictionaries.</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">nyu</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">New York</placeTerm>
+			</place>
+			<publisher>McGraw-Hill Book Co.</publisher>
+			<dateIssued>c1981</dateIssued>
+			<dateIssued encoding="marc">1981</dateIssued>
+			<edition>2d ed.</edition>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">eng</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>viii, 838 p. : ill. ; 29 cm.</extent>
+		</physicalDescription>
+		<note type="statement of responsibility">Sybil P. Parker, editor in chief.</note>
+		<note type="bibliography">Includes bibliographies and index.</note>
+		<subject authority="lcsh">
+			<topic>Power resources</topic>
+			<genre>Dictionaries</genre>
+		</subject>
+		<subject authority="lcsh">
+			<topic>Power (Mechanics)</topic>
+			<genre>Dictionaries</genre>
+		</subject>
+		<subject authority="LCC">
+			<topic>Technology -- Mechanical engineering and machinery -- Power resources -- General works</topic>
+		</subject>
+		<classification authority="lcc">TJ163.2 .M3 1981</classification>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>McGraw-Hill encyclopedia of energy</title>
+			</titleInfo>
+			<originInfo>
+				<publisher>New York : McGraw-Hill Book Co., ©1981</publisher>
+				<edition>2d ed.</edition>
+			</originInfo>
+			<identifier type="local">(OCoLC)567500551</identifier>
+		</relatedItem>
+		<identifier type="isbn">0070452687 :</identifier>
+		<identifier type="lccn">80018078</identifier>
+		<location>
+			<shelfLocator>TJ163.2 .M3 1981</shelfLocator>
+			<physicalLocation>CAB</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">800602</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20020606090541.3</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000857393</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+	<mods>
+		<titleInfo>
+			<title>Mataṅgapārameśvarāgama (Vidyāpāda)</title>
+			<subTitle>avec le commentaire de Bhatta Rāmakantha</subTitle>
+		</titleInfo>
+		<titleInfo type="uniform">
+			<title>Agamas</title>
+			<partName>Mataṅgaparameśvarāgama. Vidyāpāda</partName>
+		</titleInfo>
+		<name type="personal">
+			<namePart>Bhatt, N. R.</namePart>
+		</name>
+		<typeOfResource>text</typeOfResource>
+		<genre authority="marcgt">bibliography</genre>
+		<originInfo>
+			<place>
+				<placeTerm authority="marccountry" type="code">ii</placeTerm>
+			</place>
+			<place>
+				<placeTerm type="text">Pondichéry</placeTerm>
+			</place>
+			<publisher>Institut français d'indologie</publisher>
+			<dateIssued>1977</dateIssued>
+			<issuance>monographic</issuance>
+		</originInfo>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">san</languageTerm>
+		</language>
+		<language>
+			<languageTerm authority="iso639-2b" type="code">fre</languageTerm>
+		</language>
+		<physicalDescription>
+			<form authority="marcform">print</form>
+			<extent>lviii, 711 p. ; 26 cm.</extent>
+		</physicalDescription>
+		<tableOfContents>Vol. 1 Vidyāpadaḥ = Vidyāpada.</tableOfContents>
+		<tableOfContents>Vol. 2 kriyā-yoga-caryāpādāḥ = Kriyāpada, Yogapada, Caryāpāda.</tableOfContents>
+		<note type="statement of responsibility">éd. critique par N. R. Bhatt.</note>
+		<note>In Sanskrit; introd. in French and Sanskrit.</note>
+		<note>Includes indexes.</note>
+		<note type="bibliography">Bibliography: p. [687]-690.</note>
+		<subject authority="lcsh">
+			<topic>Śaivism</topic>
+		</subject>
+		<subject authority="LCC">
+			<topic>Philosophy. Psychology. Religion -- Religions. Mythology. Rationalism -- Religion -- History and principles of religions -- Asian. Oriental -- By religion -- Hinduism</topic>
+		</subject>
+		<classification authority="lcc">BL1245.S5 A66 1977</classification>
+		<relatedItem>
+			<titleInfo>
+				<title>Publications de l'Institut francais d'indologie ; no 56</title>
+			</titleInfo>
+		</relatedItem>
+		<relatedItem>
+			<titleInfo>
+				<title>Mataṅgavṛtti. 1977</title>
+			</titleInfo>
+			<name type="personal">
+				<namePart>Rāmakaṇṭha.</namePart>
+			</name>
+		</relatedItem>
+		<relatedItem>
+			<titleInfo>
+				<title>Mataṅgavṛtti</title>
+			</titleInfo>
+			<name type="personal">
+				<namePart>Rāmakaṇṭha.</namePart>
+			</name>
+		</relatedItem>
+		<relatedItem displayLabel="Online version:" type="otherFormat">
+			<titleInfo>
+				<title>Mataṅgapārameśvarāgama (Vidyāpāda)</title>
+			</titleInfo>
+			<name>
+				<namePart>Agamas. Mataṅgaparameśvarāgama. Vidyāpāda.</namePart>
+			</name>
+			<originInfo>
+				<publisher>Pondichéry : Institut français d'indologie, 1977</publisher>
+			</originInfo>
+			<identifier type="local">(OCoLC)646934358</identifier>
+		</relatedItem>
+		<relatedItem type="series">
+			<titleInfo>
+				<title>Publications de l'Institut français d'indologie ; no 56</title>
+			</titleInfo>
+		</relatedItem>
+		<identifier type="lccn">78901092</identifier>
+		<location>
+			<physicalLocation>CRL</physicalLocation>
+		</location>
+		<location>
+			<shelfLocator>IndL 287.6 vol. 56</shelfLocator>
+			<physicalLocation>WID</physicalLocation>
+		</location>
+		<extension>
+			<usageData xmlns="http://lib.harvard.edu/usagedata">
+				<stackScore>1</stackScore>
+			</usageData>
+		</extension>
+		<recordInfo>
+			<recordContentSource authority="marcorg">DLC</recordContentSource>
+			<recordCreationDate encoding="marc">790807</recordCreationDate>
+			<recordChangeDate encoding="iso8601">20060915164003.0</recordChangeDate>
+			<recordIdentifier source="MH:ALEPH">000858025</recordIdentifier>
+			<recordOrigin>Converted from MARCXML to MODS version 3.5 using MARC21slim2MODS3-5.xsl (Revision 1.102 2014/08/12)</recordOrigin>
+		</recordInfo>
+	</mods>
+</modsCollection>

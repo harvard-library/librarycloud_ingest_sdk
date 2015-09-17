@@ -40,7 +40,14 @@ to the screen, and the message will be moved to the ```librarycloud-developer-do
 
 # Connecting to the pipeline
 
-Contact the LibraryCloud Support team, and give them the ARN of the SQS queue to be used for inbound messages. 
+Contact the LibraryCloud Support team, and give them the ARN of the SQS queue to be used for inbound messages. Once the SQS queue is added to the SNS subscription, messages will start flowing to the specified queue.
+
+There are three SNS subscriptions available
+
+* Full - A full set of all LibraryCloud records (over 10 million) is published weekly. Incremental updates are published two or three times a week.
+* Updates - Only LibraryCloud records that have changed or been added in the previous interval. Published several times a week.
+* Deletes - A list of record ids for records that previously existed, but have been deleted in the previous interval. Published several times a week
+
 
 # Writing a component to do something
 
@@ -49,6 +56,9 @@ The camel pipeline invokes the ```processMessage()``` function defined in ```Exa
 Within that function, the payload of the message (an XML document, generally containing a set of MODS records) can be accessed by calling ```libCommMessage.getPayload().getData()```. 
 
 The XML payload will contain a list of MODS records - an example is at ```data/sample_message_01-payload.xml```.
+
+
+
 
 # Scaling up and running on EC2 (WIP)
 

@@ -51,13 +51,13 @@ There are three SNS subscriptions available
 
 # Writing a component to do something
 
-The camel pipeline invokes the ```processMessage()``` function defined in ```ExampleProcessor.java```. Change this to reflect the logic you wish to have included in your component. 
+The camel pipeline invokes the ```processMessage()``` functions defined in ```ExampleProcessor.java```. Change these to reflect the logic you wish to have included in your component. 
 
-Within that function, the payload of the message (an XML document, generally containing a set of MODS records) can be accessed by calling ```libCommMessage.getPayload().getData()```. 
+If the payload of the document contains a set of XML MODS records, ```processMessage(libCommMessage, modsCollection)``` will be called, providing  object representations of the message and the MODS records. 
 
-The XML payload will contain a list of MODS records - an example is at ```data/sample_message_01-payload.xml```.
+If the payload does not contain MODS records, ```processMessage(libCommMessage)``` will be called, and the payload will be accessible by calling ```libCommMessage.getPayload().getData()```. 
 
-
+A sample of XML MODS records that might appear in a payload is available at ```data/sample_message_01-payload.xml```.
 
 
 # Scaling up and running on EC2 (WIP)

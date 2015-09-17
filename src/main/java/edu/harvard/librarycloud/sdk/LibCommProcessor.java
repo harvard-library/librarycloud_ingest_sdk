@@ -6,9 +6,13 @@ import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 import java.io.StringWriter;
+import java.io.StringReader;
 import java.io.UnsupportedEncodingException;
+import java.util.ArrayList;
+import java.util.List;
 
 import javax.xml.bind.JAXBContext;
+import javax.xml.bind.JAXBElement;
 import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 import javax.xml.bind.Unmarshaller;
@@ -19,14 +23,16 @@ import org.apache.camel.Processor;
 import org.apache.camel.component.file.GenericFile;
 import org.apache.log4j.Logger;
 
-import edu.harvard.librarycloud.sdk.LibCommMessage;
 import gov.loc.marc.CollectionType;
 import gov.loc.mods.v3.ModsCollection;
+import gov.loc.mods.v3.ModsType;
+import edu.harvard.librarycloud.sdk.LibCommMessage;
 
 public class LibCommProcessor implements Processor {
 
 	protected Logger log = Logger.getLogger(LibCommProcessor.class); 
 	protected LibCommMessage libCommMessage = null;
+	protected ModsCollection modsCollection = null;
 	private   IProcessor processor;
 
 	/**
@@ -46,8 +52,19 @@ public class LibCommProcessor implements Processor {
 		Message message = exchange.getIn();
 		InputStream messageIS = readMessageBody(message);			
 		libCommMessage = unmarshalMessage(context, messageIS);
+
 		try {
-			processor.processMessage(libCommMessage);			
+			modsCollection = unmarshalModsPayload(context, libCommMessage.getPayload().getData());
+		} catch (JAXBException je) {
+			// Do nothing - just means that this wasn't a MODS message
+		}
+
+		try {
+			if (modsCollection == null) {
+				processor.processMessage(libCommMessage);
+			} else {
+				processor.processMessage(libCommMessage, modsCollection);
+			}
 		} catch (Exception e) {
 			log.error("Error processing message. Route:" + exchange.getFromRouteId() + "; Id:" + exchange.getExchangeId(), e);			
 			throw e;
@@ -101,6 +118,20 @@ public class LibCommProcessor implements Processor {
  		Unmarshaller jaxbUnmarshaller = context.createUnmarshaller();
 		libCommMessage = (LibCommMessage) jaxbUnmarshaller.unmarshal(is);
 		return libCommMessage;		
+	}
+
+	/**
+	 * Unmarshall message payload of MODS records from XML to object
+	 * @param  context       JAXBContext required for marshalling/unmarshalling
+	 * @param  is            input stream with XML to unmarshall
+	 * @return               populated ModsCollection
+	 * @throws JAXBException 
+	 */
+	private ModsCollection unmarshalModsPayload (JAXBContext context, String data) throws JAXBException {
+		Unmarshaller unmarshaller = context.createUnmarshaller();
+		StringReader reader = new StringReader(data);		
+		ModsCollection modsCollection = (ModsCollection)unmarshaller.unmarshal(reader);
+		return modsCollection;		
 	}
 
 	/**
